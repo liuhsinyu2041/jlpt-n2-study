@@ -1,0 +1,2060 @@
+{
+  "dataVersion": "2021-07-extracted-v1",
+  "exam": "2021-07",
+  "scope": "文字・語彙・文法（問題1〜8、Q1〜47）",
+  "source_note": "題幹與選項依使用者提供的掃描版 PDF 頁面影像人工轉錄；答案另以外部答案表交叉核對。",
+  "question_count": 47,
+  "questions": [
+    {
+      "id": "2021-07-Q1",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 1,
+      "problem_number": 1,
+      "question_type": "reading",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "海外市場に進出するために販売部門を拡充した。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "こうじゅ"
+        },
+        {
+          "option": 2,
+          "text": "かくじゅ"
+        },
+        {
+          "option": 3,
+          "text": "こうじゅう"
+        },
+        {
+          "option": 4,
+          "text": "かくじゅう"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "かくじゅう",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "拡充",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:拡充",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「拡充」讀作「かくじゅう」，指擴充、擴大並充實。"
+    },
+    {
+      "id": "2021-07-Q2",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 2,
+      "problem_number": 1,
+      "question_type": "reading",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "近年、科学技術は著しい進歩を見せている。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "かやがかしい"
+        },
+        {
+          "option": 2,
+          "text": "かがやかしい"
+        },
+        {
+          "option": 3,
+          "text": "いちじるしい"
+        },
+        {
+          "option": 4,
+          "text": "いちるじしい"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "いちじるしい",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "著しい",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:著しい",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「著しい」讀作「いちじるしい」，表示顯著、明顯。"
+    },
+    {
+      "id": "2021-07-Q3",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 3,
+      "problem_number": 1,
+      "question_type": "reading",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "みなさんの声援に力づけられました。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "せいえん"
+        },
+        {
+          "option": 2,
+          "text": "しえん"
+        },
+        {
+          "option": 3,
+          "text": "せいいん"
+        },
+        {
+          "option": 4,
+          "text": "しいん"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "せいえん",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "声援",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:声援",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「声援」讀作「せいえん」，指聲援、加油。"
+    },
+    {
+      "id": "2021-07-Q4",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 4,
+      "problem_number": 1,
+      "question_type": "reading",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "いつのまにか傾いていました。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "きずついて"
+        },
+        {
+          "option": 2,
+          "text": "かたむいて"
+        },
+        {
+          "option": 3,
+          "text": "かわいて"
+        },
+        {
+          "option": 4,
+          "text": "ういて"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "かたむいて",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "傾いて",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:傾いて",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「傾く」讀作「かたむく」，表示傾斜、偏向。"
+    },
+    {
+      "id": "2021-07-Q5",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 5,
+      "problem_number": 1,
+      "question_type": "reading",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "ガラスの破片が落ちているから、気をつけてください。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ひがた"
+        },
+        {
+          "option": 2,
+          "text": "はがた"
+        },
+        {
+          "option": 3,
+          "text": "ひへん"
+        },
+        {
+          "option": 4,
+          "text": "はへん"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "はへん",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "破片",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:破片",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「破片」讀作「はへん」，指碎片。"
+    },
+    {
+      "id": "2021-07-Q6",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 6,
+      "problem_number": 2,
+      "question_type": "kanji_writing",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "私の故郷は自然がゆたかなところです。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "豊か"
+        },
+        {
+          "option": 2,
+          "text": "富か"
+        },
+        {
+          "option": 3,
+          "text": "恵か"
+        },
+        {
+          "option": 4,
+          "text": "福か"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "豊か",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "ゆたか",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:ゆたか",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「ゆたか」寫作「豊か」，表示豐富、富裕。"
+    },
+    {
+      "id": "2021-07-Q7",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 7,
+      "problem_number": 2,
+      "question_type": "kanji_writing",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この店の商品は、買ってから一週間以内ならへんぴんできます。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "返品"
+        },
+        {
+          "option": 2,
+          "text": "変品"
+        },
+        {
+          "option": 3,
+          "text": "逆品"
+        },
+        {
+          "option": 4,
+          "text": "戻品"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "返品",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "へんぴん",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:へんぴん",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「へんぴん」寫作「返品」，表示退貨。"
+    },
+    {
+      "id": "2021-07-Q8",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 8,
+      "problem_number": 2,
+      "question_type": "kanji_writing",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "道具をらんぼうに使ってはいけません。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "荒暴"
+        },
+        {
+          "option": 2,
+          "text": "乱暴"
+        },
+        {
+          "option": 3,
+          "text": "乱亡"
+        },
+        {
+          "option": 4,
+          "text": "荒亡"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "乱暴",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "らんぼう",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:らんぼう",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「らんぼう」寫作「乱暴」，此處指粗暴、粗魯地使用。"
+    },
+    {
+      "id": "2021-07-Q9",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 9,
+      "problem_number": 2,
+      "question_type": "kanji_writing",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この二人はライバルとして常にきそってきた。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "争って"
+        },
+        {
+          "option": 2,
+          "text": "競って"
+        },
+        {
+          "option": 3,
+          "text": "戦って"
+        },
+        {
+          "option": 4,
+          "text": "討って"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "競って",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "きそって",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:きそって",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「きそう」寫作「競う」，表示競爭。"
+    },
+    {
+      "id": "2021-07-Q10",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 10,
+      "problem_number": 2,
+      "question_type": "kanji_writing",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "特に目立ったじゃくてんはない。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "悪点"
+        },
+        {
+          "option": 2,
+          "text": "欠点"
+        },
+        {
+          "option": 3,
+          "text": "低点"
+        },
+        {
+          "option": 4,
+          "text": "弱点"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "弱点",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "じゃくてん",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:じゃくてん",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「じゃくてん」寫作「弱点」，表示弱點。"
+    },
+    {
+      "id": "2021-07-Q11",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 11,
+      "problem_number": 3,
+      "question_type": "word_formation",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この動物は、敵に襲われると、体をボール（　）に丸めて身を守る。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "式"
+        },
+        {
+          "option": 2,
+          "text": "感"
+        },
+        {
+          "option": 3,
+          "text": "状"
+        },
+        {
+          "option": 4,
+          "text": "性"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "状",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "〜状",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:〜状",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「〜状」表示呈某種形狀；「ボール状」即球狀。"
+    },
+    {
+      "id": "2021-07-Q12",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 12,
+      "problem_number": 3,
+      "question_type": "word_formation",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "明日のシンポジウムは（　）会場で行われるので、ご注意ください。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "離"
+        },
+        {
+          "option": 2,
+          "text": "遠"
+        },
+        {
+          "option": 3,
+          "text": "別"
+        },
+        {
+          "option": 4,
+          "text": "補"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "別",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "別会場",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:別会場",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「別会場」表示另一個會場。"
+    },
+    {
+      "id": "2021-07-Q13",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 13,
+      "problem_number": 3,
+      "question_type": "word_formation",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "あの会社は、（　）社長になってから経営方針が変わった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "現"
+        },
+        {
+          "option": 2,
+          "text": "直"
+        },
+        {
+          "option": 3,
+          "text": "今"
+        },
+        {
+          "option": 4,
+          "text": "近"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "現",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "現社長",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:現社長",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「現社長」指現任社長。"
+    },
+    {
+      "id": "2021-07-Q14",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 14,
+      "problem_number": 4,
+      "question_type": "contextual_vocabulary",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "最近、物価が（　）している。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "増加"
+        },
+        {
+          "option": 2,
+          "text": "上達"
+        },
+        {
+          "option": 3,
+          "text": "増大"
+        },
+        {
+          "option": 4,
+          "text": "上昇"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "上昇",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "上昇",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:上昇",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "價格、物價上升常用「上昇する」。"
+    },
+    {
+      "id": "2021-07-Q15",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 15,
+      "problem_number": 4,
+      "question_type": "contextual_vocabulary",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "ちょうどいい（　）で警官が通りかかったので、助かった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "タイマー"
+        },
+        {
+          "option": 2,
+          "text": "アクシデント"
+        },
+        {
+          "option": 3,
+          "text": "タイミング"
+        },
+        {
+          "option": 4,
+          "text": "アクション"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "タイミング",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "タイミング",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:タイミング",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「ちょうどいいタイミング」表示正好在適當時機。"
+    },
+    {
+      "id": "2021-07-Q16",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 16,
+      "problem_number": 4,
+      "question_type": "contextual_vocabulary",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "遠慮はいらないので、いつでも（　）声をかけてください。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "無事に"
+        },
+        {
+          "option": 2,
+          "text": "気軽に"
+        },
+        {
+          "option": 3,
+          "text": "素直に"
+        },
+        {
+          "option": 4,
+          "text": "器用に"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "気軽に",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "気軽に",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:気軽に",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「気軽に声をかける」表示不用拘束、輕鬆地搭話。"
+    },
+    {
+      "id": "2021-07-Q17",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 17,
+      "problem_number": 4,
+      "question_type": "contextual_vocabulary",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "Eメールに（　）されたファイルが開けない。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "輸送"
+        },
+        {
+          "option": 2,
+          "text": "付属"
+        },
+        {
+          "option": 3,
+          "text": "郵送"
+        },
+        {
+          "option": 4,
+          "text": "添付"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "添付",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "添付",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:添付",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "電子郵件的附件使用「添付されたファイル」。"
+    },
+    {
+      "id": "2021-07-Q18",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 18,
+      "problem_number": 4,
+      "question_type": "contextual_vocabulary",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "そんなに人のことを（　）見るものではありませんよ。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "じろじろ"
+        },
+        {
+          "option": 2,
+          "text": "たまたま"
+        },
+        {
+          "option": 3,
+          "text": "さっさと"
+        },
+        {
+          "option": 4,
+          "text": "うっかり"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "じろじろ",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "じろじろ",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:じろじろ",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「じろじろ見る」表示盯著別人看。"
+    },
+    {
+      "id": "2021-07-Q19",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 3,
+      "question_number": 19,
+      "problem_number": 4,
+      "question_type": "contextual_vocabulary",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "その選手は体力の（　）まで走り続けた。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "制限"
+        },
+        {
+          "option": 2,
+          "text": "限界"
+        },
+        {
+          "option": 3,
+          "text": "境界"
+        },
+        {
+          "option": 4,
+          "text": "境目"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "限界",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "限界",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:限界",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「体力の限界」表示體力極限。"
+    },
+    {
+      "id": "2021-07-Q20",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 20,
+      "problem_number": 4,
+      "question_type": "contextual_vocabulary",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "彼はその出来事がきっかけで、医者になる決意を（　）。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "固めた"
+        },
+        {
+          "option": 2,
+          "text": "まとめた"
+        },
+        {
+          "option": 3,
+          "text": "仕上げた"
+        },
+        {
+          "option": 4,
+          "text": "合わせた"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "固めた",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "決意を固める",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:決意を固める",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "固定搭配「決意を固める」，表示下定決心。"
+    },
+    {
+      "id": "2021-07-Q21",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 21,
+      "problem_number": 5,
+      "question_type": "synonym",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "あの人の冷たい態度には失望した。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "がっかりした"
+        },
+        {
+          "option": 2,
+          "text": "びっくりした"
+        },
+        {
+          "option": 3,
+          "text": "かっとした"
+        },
+        {
+          "option": 4,
+          "text": "ぞっとした"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "がっかりした",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "失望する",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:失望する",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「失望する」與「がっかりする」意思最接近。"
+    },
+    {
+      "id": "2021-07-Q22",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 22,
+      "problem_number": 5,
+      "question_type": "synonym",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "すぐに仕事にとりかかります。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "仕事を探します"
+        },
+        {
+          "option": 2,
+          "text": "仕事を始めます"
+        },
+        {
+          "option": 3,
+          "text": "仕事を教えます"
+        },
+        {
+          "option": 4,
+          "text": "仕事を頼みます"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "仕事を始めます",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "取りかかる",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:取りかかる",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「取りかかる」表示開始著手做某事。"
+    },
+    {
+      "id": "2021-07-Q23",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 23,
+      "problem_number": 5,
+      "question_type": "synonym",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "手書きの文字には書いた人の人柄が出る。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "格好"
+        },
+        {
+          "option": 2,
+          "text": "体調"
+        },
+        {
+          "option": 3,
+          "text": "気分"
+        },
+        {
+          "option": 4,
+          "text": "性格"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "性格",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "人柄",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:人柄",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「人柄」指人的品格、性格，此題最接近「性格」。"
+    },
+    {
+      "id": "2021-07-Q24",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 24,
+      "problem_number": 5,
+      "question_type": "synonym",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "スピーチは案の定うまくできなかった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "あまり"
+        },
+        {
+          "option": 2,
+          "text": "あいかわらず"
+        },
+        {
+          "option": 3,
+          "text": "やっぱり"
+        },
+        {
+          "option": 4,
+          "text": "ぜんぜん"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "やっぱり",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "案の定",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:案の定",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「案の定」表示果然、正如所料，接近「やっぱり」。"
+    },
+    {
+      "id": "2021-07-Q25",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 25,
+      "problem_number": 5,
+      "question_type": "synonym",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "ごみをくるんで捨てた。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "縛って"
+        },
+        {
+          "option": 2,
+          "text": "集めて"
+        },
+        {
+          "option": 3,
+          "text": "分けて"
+        },
+        {
+          "option": 4,
+          "text": "包んで"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "包んで",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "くるむ",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:くるむ",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「くるむ」表示包起來，與「包む」接近。"
+    },
+    {
+      "id": "2021-07-Q26",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 26,
+      "problem_number": 6,
+      "question_type": "usage",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "引用",
+      "choices": [
+        {
+          "option": 1,
+          "text": "プレゼンがうまい先輩のやり方を引用する。"
+        },
+        {
+          "option": 2,
+          "text": "大きな川から水を引用する。"
+        },
+        {
+          "option": 3,
+          "text": "レポートで、新聞記事を引用する。"
+        },
+        {
+          "option": 4,
+          "text": "ほかの人のお金を引用してはいけない。"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "レポートで、新聞記事を引用する。",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "引用",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:引用",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「引用」用於引用文章、發言等內容；第3項用法正確。"
+    },
+    {
+      "id": "2021-07-Q27",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 27,
+      "problem_number": 6,
+      "question_type": "usage",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "ほっと",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ほっと気づいたら、ポケットの中のかぎがなかった。"
+        },
+        {
+          "option": 2,
+          "text": "会議中にほっとしていたら、上司に注意された。"
+        },
+        {
+          "option": 3,
+          "text": "好きな人に話しかけられて、ほっと顔が赤くなった。"
+        },
+        {
+          "option": 4,
+          "text": "なくしたと思った大事な本が見つかって、ほっとした。"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "なくしたと思った大事な本が見つかって、ほっとした。",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "ほっと",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:ほっと",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「ほっとする」表示放心、鬆一口氣；找到以為遺失的書時很自然。"
+    },
+    {
+      "id": "2021-07-Q28",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 28,
+      "problem_number": 6,
+      "question_type": "usage",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "展開",
+      "choices": [
+        {
+          "option": 1,
+          "text": "高橋教授は、この島で生物の展開の歴史を調べている。"
+        },
+        {
+          "option": 2,
+          "text": "この漫画は、ストーリーの展開が面白い。"
+        },
+        {
+          "option": 3,
+          "text": "好きなことをしている時は、時間の展開が早い。"
+        },
+        {
+          "option": 4,
+          "text": "池田選手はとても強くて、5年連続で決勝戦への展開を決めている。"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "この漫画は、ストーリーの展開が面白い。",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "展開",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:展開",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「ストーリーの展開」是「展開」的自然用法，指情節發展。"
+    },
+    {
+      "id": "2021-07-Q29",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 29,
+      "problem_number": 6,
+      "question_type": "usage",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "妥当",
+      "choices": [
+        {
+          "option": 1,
+          "text": "品質に比べて値段が高いと言う人もいるが、私は妥当な金額だと思う。"
+        },
+        {
+          "option": 2,
+          "text": "風邪気味だったので、今日の会議が中止になったのは、私には妥当だった。"
+        },
+        {
+          "option": 3,
+          "text": "旅行の日は雨の予報だったが、きれいに晴れて、妥当な天気になった。"
+        },
+        {
+          "option": 4,
+          "text": "この曲は、歌詞が今の私の気持ちに妥当なので、最近よく聞いている。"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "品質に比べて値段が高いと言う人もいるが、私は妥当な金額だと思う。",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "妥当",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:妥当",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「妥当」表示合理、適當；「妥当な金額」用法自然。"
+    },
+    {
+      "id": "2021-07-Q30",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 30,
+      "problem_number": 6,
+      "question_type": "usage",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "かばう",
+      "choices": [
+        {
+          "option": 1,
+          "text": "この団体は、海岸の清掃など、環境をかばう活動をしている。"
+        },
+        {
+          "option": 2,
+          "text": "この島は法律でかばわれていて、捕まえたり飼ったりすることが禁止されている。"
+        },
+        {
+          "option": 3,
+          "text": "弟が両親にしかられていたので、「すごく反省してたよ」と言って、弟をかばった。"
+        },
+        {
+          "option": 4,
+          "text": "開発した新技術をかばうため、関連する情報を厳重に管理している。"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "弟が両親にしかられていたので、「すごく反省してたよ」と言って、弟をかばった。",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "かばう",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:かばう",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「かばう」表示袒護、庇護人；第3項用法正確。"
+    },
+    {
+      "id": "2021-07-Q31",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 4,
+      "question_number": 31,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "野党の追及に対し、大臣は満足な回答ができなかったどころか、質問の内容（　）理解できていなかった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "すら"
+        },
+        {
+          "option": 2,
+          "text": "こそ"
+        },
+        {
+          "option": 3,
+          "text": "のみ"
+        },
+        {
+          "option": 4,
+          "text": "ほど"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "すら",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "すら",
+      "target_type": "grammar",
+      "target_id": "grammar:すら",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「すら」表示「連～都…」，常用於強調極端例。"
+    },
+    {
+      "id": "2021-07-Q32",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 32,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "最近（　）パソコンの調子がおかしい。この状態が続くようだったら一度修理に出したほうがよさそうだ。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ちっとも"
+        },
+        {
+          "option": 2,
+          "text": "いったい"
+        },
+        {
+          "option": 3,
+          "text": "どうも"
+        },
+        {
+          "option": 4,
+          "text": "まさか"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "どうも",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "どうも",
+      "target_type": "grammar",
+      "target_id": "grammar:どうも",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「どうも」可表示說不清原因但感覺有某種情況，「最近どうも調子がおかしい」。"
+    },
+    {
+      "id": "2021-07-Q33",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 33,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "（広告で）川西ピアノ教室では、初心者、経験者（　）、どなたにでも丁寧に指導します。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "を通して"
+        },
+        {
+          "option": 2,
+          "text": "を問わず"
+        },
+        {
+          "option": 3,
+          "text": "にかけて"
+        },
+        {
+          "option": 4,
+          "text": "にもかかわらず"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "を問わず",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "を問わず",
+      "target_type": "grammar",
+      "target_id": "grammar:を問わず",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「〜を問わず」表示不論～、不分～。"
+    },
+    {
+      "id": "2021-07-Q34",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 34,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "めったに出かけないのに、外出するとき（　）大雨になる。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "にあたって"
+        },
+        {
+          "option": 2,
+          "text": "にかぎって"
+        },
+        {
+          "option": 3,
+          "text": "において"
+        },
+        {
+          "option": 4,
+          "text": "に際して"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "にかぎって",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "にかぎって",
+      "target_type": "grammar",
+      "target_id": "grammar:にかぎって",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「〜に限って」有偏偏在某時／某情況下發生不利事情的語感。"
+    },
+    {
+      "id": "2021-07-Q35",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 35,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "昨夜よく眠れなかった（　）、体がだるい。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "からには"
+        },
+        {
+          "option": 2,
+          "text": "わけか"
+        },
+        {
+          "option": 3,
+          "text": "あまりに"
+        },
+        {
+          "option": 4,
+          "text": "せいか"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "せいか",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "せいか",
+      "target_type": "grammar",
+      "target_id": "grammar:せいか",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「〜せいか」表示推測某負面結果可能是由前項原因造成。"
+    },
+    {
+      "id": "2021-07-Q36",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 36,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "初めてこの町を訪れたが、不思議な（　）、ずっと前からここに住んでいるような気がする。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ことに"
+        },
+        {
+          "option": 2,
+          "text": "うえに"
+        },
+        {
+          "option": 3,
+          "text": "くせに"
+        },
+        {
+          "option": 4,
+          "text": "ものに"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "ことに",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "ことに",
+      "target_type": "grammar",
+      "target_id": "grammar:ことに",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「不思議なことに」是固定表達，表示「不可思議的是～」。"
+    },
+    {
+      "id": "2021-07-Q37",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 37,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "（会社で）A「じゃ、来週の打ち合わせも水曜日でいいですか。」B「あ、スケジュールを（　）ちょっとわからないので、あとで連絡します。」",
+      "choices": [
+        {
+          "option": 1,
+          "text": "確認していないと"
+        },
+        {
+          "option": 2,
+          "text": "確認してみないと"
+        },
+        {
+          "option": 3,
+          "text": "確認しているか"
+        },
+        {
+          "option": 4,
+          "text": "確認してみるか"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "確認してみないと",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "確認してみないと",
+      "target_type": "grammar",
+      "target_id": "grammar:確認してみないと",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「〜てみないとわからない」表示不試著確認看看就不知道。"
+    },
+    {
+      "id": "2021-07-Q38",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 38,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "「一つの仕事を少なくとも三年は（　）、どこに行っても何もできない」と言われた。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "やり続けられなかったら"
+        },
+        {
+          "option": 2,
+          "text": "やり続けられなくなっても"
+        },
+        {
+          "option": 3,
+          "text": "やり始められなかったら"
+        },
+        {
+          "option": 4,
+          "text": "やり始められなくなっても"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "やり続けられなかったら",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "やり続けられなかったら",
+      "target_type": "grammar",
+      "target_id": "grammar:やり続けられなかったら",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "條件句表示「如果連一份工作至少持續三年都做不到，就…」。"
+    },
+    {
+      "id": "2021-07-Q39",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 39,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "仕事でも勉強でも、一度やると決めたら最後まで（　）ことが大事だと思う。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "やり直す"
+        },
+        {
+          "option": 2,
+          "text": "やりだす"
+        },
+        {
+          "option": 3,
+          "text": "やり抜く"
+        },
+        {
+          "option": 4,
+          "text": "やりかける"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "やり抜く",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "〜抜く",
+      "target_type": "grammar",
+      "target_id": "grammar:〜抜く",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「〜抜く」表示把某事徹底做到底；「やり抜く」即堅持完成。"
+    },
+    {
+      "id": "2021-07-Q40",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 40,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "（受付で）山川「すみません。ABC社の山川と申しますが、営業部の中西さんをお願いします。」受付「申し訳ございません。中西はただいま外出しておりますが。」山川「え、中西さんご本人から、この時間だったらいらっしゃると（　）が。」",
+      "choices": [
+        {
+          "option": 1,
+          "text": "お聞きになったんです"
+        },
+        {
+          "option": 2,
+          "text": "申し上げたんです"
+        },
+        {
+          "option": 3,
+          "text": "ご存じなんです"
+        },
+        {
+          "option": 4,
+          "text": "伺ったんです"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "伺ったんです",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "伺ったんです",
+      "target_type": "grammar",
+      "target_id": "grammar:伺ったんです",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「伺う」是「聞く」的謙讓語；說話者表示自己從中西本人那裡聽說。"
+    },
+    {
+      "id": "2021-07-Q41",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 41,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "就職が決まった会社に「早く働きたい」と話したら、その後連絡が来て、就職するまでの間、アルバイトを（　）。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "してあげることになった"
+        },
+        {
+          "option": 2,
+          "text": "してもらうことにした"
+        },
+        {
+          "option": 3,
+          "text": "させてあげることにした"
+        },
+        {
+          "option": 4,
+          "text": "させてもらうことになった"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "させてもらうことになった",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "させてもらうことになった",
+      "target_type": "grammar",
+      "target_id": "grammar:させてもらうことになった",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「〜させてもらう」表示得到允許而做某事；「ことになった」表示安排／決定形成。"
+    },
+    {
+      "id": "2021-07-Q42",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 42,
+      "problem_number": 7,
+      "question_type": "grammar_fill",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "A「先輩に食事に誘われちゃって。どうしよう。行きたくないなあ。」B「どうして悩むの？嫌なら（　）？」A「そうなんだけど、先輩だし、断りにくくない？」",
+      "choices": [
+        {
+          "option": 1,
+          "text": "断ればいいだけなの"
+        },
+        {
+          "option": 2,
+          "text": "断りたいだけなの"
+        },
+        {
+          "option": 3,
+          "text": "断ればいいだけでしょう"
+        },
+        {
+          "option": 4,
+          "text": "断りたいだけでしょう"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "断ればいいだけでしょう",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "断ればいいだけでしょう",
+      "target_type": "grammar",
+      "target_id": "grammar:断ればいいだけでしょう",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "「〜ばいいだけでしょう」表示「只要～不就好了嗎」，符合勸對方直接拒絕的語境。"
+    },
+    {
+      "id": "2021-07-Q43",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 43,
+      "problem_number": 8,
+      "question_type": "grammar_order",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "もうすぐ高校卒業だ。この学校で先生や友達と過ごす＿＿＿＿＿＿★＿＿＿＿＿＿。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "あと数週間"
+        },
+        {
+          "option": 2,
+          "text": "と思うと"
+        },
+        {
+          "option": 3,
+          "text": "のも"
+        },
+        {
+          "option": 4,
+          "text": "寂しさが増してくる"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "あと数週間",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "〜のもあと…と思うと",
+      "target_type": "grammar",
+      "target_id": "grammar:〜のもあと…と思うと",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "正確語序為「過ごすのもあと数週間と思うと寂しさが増してくる」。★位置是「あと数週間」。",
+      "order_solution": [
+        3,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "2021-07-Q44",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 44,
+      "problem_number": 8,
+      "question_type": "grammar_order",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "A「サラリーマンから農家＿＿＿＿＿＿★＿＿＿＿＿＿があるんだね。」B「自分の夢をどうしてもあきらめきれなくてね。」",
+      "choices": [
+        {
+          "option": 1,
+          "text": "勇気"
+        },
+        {
+          "option": 2,
+          "text": "とは"
+        },
+        {
+          "option": 3,
+          "text": "ずいぶん"
+        },
+        {
+          "option": 4,
+          "text": "になる"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "ずいぶん",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "〜になるとは",
+      "target_type": "grammar",
+      "target_id": "grammar:〜になるとは",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "正確語序為「農家になるとは、ずいぶん勇気があるんだね」。★位置是「ずいぶん」。",
+      "order_solution": [
+        4,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "2021-07-Q45",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 45,
+      "problem_number": 8,
+      "question_type": "grammar_order",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "遠足の日の朝、娘は、「いってきます」と＿＿＿＿＿＿★＿＿＿＿＿＿飛び出していった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "終わらないか"
+        },
+        {
+          "option": 2,
+          "text": "言い終わるか"
+        },
+        {
+          "option": 3,
+          "text": "玄関を"
+        },
+        {
+          "option": 4,
+          "text": "のうちに"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "のうちに",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "〜か〜ないかのうちに",
+      "target_type": "grammar",
+      "target_id": "grammar:〜か〜ないかのうちに",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "正確語序為「言い終わるか終わらないかのうちに玄関を飛び出していった」。★位置是「のうちに」。",
+      "order_solution": [
+        2,
+        1,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "2021-07-Q46",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 5,
+      "question_number": 46,
+      "problem_number": 8,
+      "question_type": "grammar_order",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "参考書を読んで完璧に＿＿＿＿＿＿★＿＿＿＿＿＿ということがよくある。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "理解した"
+        },
+        {
+          "option": 2,
+          "text": "問題を解いてみると"
+        },
+        {
+          "option": 3,
+          "text": "できない"
+        },
+        {
+          "option": 4,
+          "text": "つもりでも"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "問題を解いてみると",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "つもりでも〜てみると",
+      "target_type": "grammar",
+      "target_id": "grammar:つもりでも〜てみると",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "正確語序為「完璧に理解したつもりでも、問題を解いてみるとできない」。★位置是「問題を解いてみると」。",
+      "order_solution": [
+        1,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "2021-07-Q47",
+      "exam": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "source_pdf": "2021年07月日语N2真题试卷.pdf",
+      "pdf_page": 6,
+      "question_number": 47,
+      "problem_number": 8,
+      "question_type": "grammar_order",
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この池に＿＿＿＿＿＿★＿＿＿＿＿＿そうだ。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ものもいる"
+        },
+        {
+          "option": 2,
+          "text": "すむ"
+        },
+        {
+          "option": 3,
+          "text": "魚のなかには"
+        },
+        {
+          "option": 4,
+          "text": "100年以上生きる"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "100年以上生きる",
+      "answer_unknown": false,
+      "answer_verification": "cross_checked_with_external_answer_keys",
+      "focus": "Nのなかには〜ものもいる",
+      "target_type": "grammar",
+      "target_id": "grammar:Nのなかには〜ものもいる",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
+      "incomplete": false,
+      "needs_review": false,
+      "explanation_zh": "正確語序為「この池にすむ魚のなかには100年以上生きるものもいるそうだ」。★位置是「100年以上生きる」。",
+      "order_solution": [
+        2,
+        3,
+        4,
+        1
+      ]
+    }
+  ]
+}
