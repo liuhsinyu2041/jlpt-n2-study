@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0",
+  "grammar": [
+    {
+      "id": "G0001",
+      "grammar": "〜に至っては",
+      "grammar_family": "〜に至っては",
+      "grammar_variant": "〜に至っては",
+      "meaning_zh": "甚至～；尤其～",
+      "connection": "名詞＋に至っては",
+      "category": "程度遞進・極端例",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 31,
+          "appearance_type": "correct_answer",
+          "answer_option": 4
+        }
+      ],
+      "confusable_grammar": [
+        "〜にしては",
+        "〜に比べて"
+      ],
+      "example": "私の3人の兄はみんな料理が苦手で、一番上の兄（　）、卵もうまく割れない。",
+      "explanation_zh": "〜に至っては表示舉極端例子、甚至提到～。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0002",
+      "grammar": "〜にかかわらず",
+      "grammar_family": "〜にかかわらず",
+      "grammar_variant": "〜にかかわらず",
+      "meaning_zh": "不論～；不受～影響",
+      "connection": "名詞／普通形＋にかかわらず",
+      "category": "無關・讓步",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 32,
+          "appearance_type": "correct_answer",
+          "answer_option": 4
+        }
+      ],
+      "confusable_grammar": [
+        "〜に限らず",
+        "〜とはいえ"
+      ],
+      "example": "来週の説明会に参加するしない（　）、この書類は必ず読んでおいてください。",
+      "explanation_zh": "〜にかかわらず表示不論前項如何，後項都成立。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0003",
+      "grammar": "いつのまにか",
+      "grammar_family": "いつのまにか",
+      "grammar_variant": "いつのまにか",
+      "meaning_zh": "不知不覺間",
+      "connection": "いつのまにか＋句子",
+      "category": "時間副詞",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 33,
+          "appearance_type": "correct_answer",
+          "answer_option": 3
+        }
+      ],
+      "confusable_grammar": [
+        "そのうち"
+      ],
+      "example": "駅前に新しいラーメン屋がオープンしていた。（　）できたのだろう。",
+      "explanation_zh": "いつのまに（か）表示不知不覺間。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0004",
+      "grammar": "〜反面",
+      "grammar_family": "〜反面",
+      "grammar_variant": "〜反面",
+      "meaning_zh": "另一方面；相反地",
+      "connection": "普通形／な形容詞な／名詞である＋反面",
+      "category": "對比",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 34,
+          "appearance_type": "correct_answer",
+          "answer_option": 1
+        }
+      ],
+      "confusable_grammar": [
+        "一方"
+      ],
+      "example": "この植物は、寒さに強い（　）、暑さや湿気に弱い。",
+      "explanation_zh": "〜反面連接相反或對照的兩面。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0005",
+      "grammar": "〜でよければ",
+      "grammar_family": "〜でよければ",
+      "grammar_variant": "〜でよければ",
+      "meaning_zh": "如果～可以的話",
+      "connection": "名詞＋でよければ",
+      "category": "條件・婉轉提議",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 35,
+          "appearance_type": "correct_answer",
+          "answer_option": 2
+        }
+      ],
+      "confusable_grammar": [
+        "〜でいいなら"
+      ],
+      "example": "A「今度北町に行くんだけど、おいしいレストラン、知らない？」 B「すし屋（　）、1軒知ってるよ。」",
+      "explanation_zh": "〜でよければ表示「如果～可以／你不介意～的話」。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0006",
+      "grammar": "〜ようとしたら",
+      "grammar_family": "〜ようとしたら",
+      "grammar_variant": "〜ようとしたら",
+      "meaning_zh": "正要～時卻～",
+      "connection": "動詞意向形＋としたら",
+      "category": "意外結果",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 36,
+          "appearance_type": "correct_answer",
+          "answer_option": 1
+        }
+      ],
+      "confusable_grammar": [
+        "〜ようとすると"
+      ],
+      "example": "懐中電灯を（　）、電池が切れていて、つかなかった。",
+      "explanation_zh": "意向形＋としたら表示正要做某事時，接著發生意外情況。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0007",
+      "grammar": "〜ないようお願いいたします",
+      "grammar_family": "〜ないようお願いいたします",
+      "grammar_variant": "〜ないようお願いいたします",
+      "meaning_zh": "請不要～；敬語請求",
+      "connection": "動詞ない形＋ようお願いいたします",
+      "category": "請求・禁止",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 37,
+          "appearance_type": "correct_answer",
+          "answer_option": 1
+        }
+      ],
+      "confusable_grammar": [
+        "〜ないでください"
+      ],
+      "example": "（マラソン大会のホームページで）周辺住民の方の迷惑になりますので、指定の駐車場以外には（　）、お願いいたします。",
+      "explanation_zh": "〜ないようお願いいたします是有禮貌的禁止／請求表達。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0008",
+      "grammar": "〜次第だ",
+      "grammar_family": "〜次第だ",
+      "grammar_variant": "〜次第だ",
+      "meaning_zh": "取決於～；由～決定",
+      "connection": "名詞＋次第だ",
+      "category": "條件・依存",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 38,
+          "appearance_type": "correct_answer",
+          "answer_option": 2
+        }
+      ],
+      "confusable_grammar": [
+        "〜にほかならない"
+      ],
+      "example": "選手がオリンピックに出場できるかどうかは、今度の大会の結果（　）。",
+      "explanation_zh": "名詞＋次第だ表示取決於～、由～決定。原頁選手姓氏 OCR 不確定，整理句省略姓氏。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。 原題人名 OCR 不確定，對應題目暫不納入正式測驗。",
+      "needs_review": true
+    },
+    {
+      "id": "G0009",
+      "grammar": "〜ことがある",
+      "grammar_family": "〜ことがある",
+      "grammar_variant": "〜ことがある",
+      "meaning_zh": "有時會～",
+      "connection": "動詞辞書形＋ことがある",
+      "category": "頻率・反覆",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 39,
+          "appearance_type": "correct_answer",
+          "answer_option": 3
+        }
+      ],
+      "confusable_grammar": [
+        "〜たところだ"
+      ],
+      "example": "最近、パソコンを使っていると、突然画面が真っ暗（　）。故障しているのかもしれない。",
+      "explanation_zh": "〜ことがある接動詞辭書形，表示有時會發生。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0010",
+      "grammar": "〜させてくれる",
+      "grammar_family": "〜させてくれる",
+      "grammar_variant": "〜させてくれる",
+      "meaning_zh": "讓我得以～；使我～",
+      "connection": "動詞使役形＋てくれる",
+      "category": "授受・恩惠",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 40,
+          "appearance_type": "correct_answer",
+          "answer_option": 3
+        }
+      ],
+      "confusable_grammar": [
+        "〜させてほしい"
+      ],
+      "example": "あのときの友人の言葉は、夢をあきらめそうになっていた私にももう一度頑張ろうと（　）。",
+      "explanation_zh": "思わせてくれた表示對方的話使說話者產生某種想法／感受，並帶有受惠語氣。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0011",
+      "grammar": "〜てまいります",
+      "grammar_family": "〜てまいります",
+      "grammar_variant": "〜てまいります",
+      "meaning_zh": "（謙讓）去做～再回來",
+      "connection": "動詞て形＋まいります",
+      "category": "敬語・謙讓",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 41,
+          "appearance_type": "correct_answer",
+          "answer_option": 2
+        }
+      ],
+      "confusable_grammar": [
+        "〜ております"
+      ],
+      "example": "（会社で）社長「さっきの会議室にペンを忘れたみたいだ。」秘書「では、私が取って（　）。」",
+      "explanation_zh": "取ってまいります是「行って取ってくる」的謙讓表達。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    },
+    {
+      "id": "G0012",
+      "grammar": "〜てもらえるとありがたい",
+      "grammar_family": "〜てもらえるとありがたい",
+      "grammar_variant": "〜てもらえるとありがたい",
+      "meaning_zh": "如果能幫我～就太感謝了",
+      "connection": "動詞て形＋もらえるとありがたい",
+      "category": "請求・婉轉表達",
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 42,
+          "appearance_type": "correct_answer",
+          "answer_option": 4
+        }
+      ],
+      "confusable_grammar": [
+        "〜てもらわなければならない"
+      ],
+      "example": "（電話で）店員「お電話ありがとうございます。さくら美容院です。」田中「あ、今日の7時に予約している田中ですが、仕事が長引いていて……。できたら8時に変更して（　）。」",
+      "explanation_zh": "〜てもらえるとありがたいんですが是委婉請求對方幫忙的說法。",
+      "notes": "題幹與答案鍵已核對；逐題收錄只涵蓋這 12 題。",
+      "needs_review": false
+    }
+  ],
+  "dataVersion": "1.1"
+}

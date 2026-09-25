@@ -1,0 +1,546 @@
+{
+  "schema_version": "1.0",
+  "vocabulary": [
+    {
+      "id": "V0001",
+      "word": "各自",
+      "surface_form": "各自",
+      "reading": "かくじ",
+      "meaning_zh": "各自；各人",
+      "part_of_speech": "副詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 21,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0002",
+      "word": "仕上げる",
+      "surface_form": "仕上げる",
+      "reading": "しあげる",
+      "meaning_zh": "完成；做完",
+      "part_of_speech": "他動詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 22,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。 OCR 字形需人工確認；暫不納入確認版排行榜。",
+      "needs_review": true
+    },
+    {
+      "id": "V0003",
+      "word": "深刻",
+      "surface_form": "深刻",
+      "reading": "しんこく",
+      "meaning_zh": "嚴重；深刻",
+      "part_of_speech": "な形容詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 23,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0004",
+      "word": "同僚",
+      "surface_form": "同僚",
+      "reading": "どうりょう",
+      "meaning_zh": "同事",
+      "part_of_speech": "名詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 24,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0005",
+      "word": "うつむく",
+      "surface_form": "うつむく",
+      "reading": "うつむく",
+      "meaning_zh": "低頭；垂頭",
+      "part_of_speech": "自動詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 25,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0006",
+      "word": "廃止",
+      "surface_form": "廃止",
+      "reading": "はいし",
+      "meaning_zh": "廢止",
+      "part_of_speech": "名詞・他動詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 26,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0007",
+      "word": "腫れる",
+      "surface_form": "腫れる",
+      "reading": "はれる",
+      "meaning_zh": "腫脹",
+      "part_of_speech": "自動詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 27,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。 OCR 字形需人工確認；暫不納入確認版排行榜。",
+      "needs_review": true
+    },
+    {
+      "id": "V0008",
+      "word": "上達",
+      "surface_form": "上達",
+      "reading": "じょうたつ",
+      "meaning_zh": "進步；熟練",
+      "part_of_speech": "名詞・自動詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 28,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0009",
+      "word": "暮れ",
+      "surface_form": "暮れ",
+      "reading": "くれ",
+      "meaning_zh": "年末；傍晚",
+      "part_of_speech": "名詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 29,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0010",
+      "word": "残高",
+      "surface_form": "残高",
+      "reading": "ざんだか",
+      "meaning_zh": "餘額",
+      "part_of_speech": "名詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2023-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 30,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0011",
+      "word": "ガイドする",
+      "surface_form": "ガイドする",
+      "reading": "がいどする",
+      "meaning_zh": "帶路；導覽",
+      "part_of_speech": "他動詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 21,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0012",
+      "word": "修正する",
+      "surface_form": "修正する",
+      "reading": "しゅうせいする",
+      "meaning_zh": "修正",
+      "part_of_speech": "他動詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 22,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0013",
+      "word": "徐々に",
+      "surface_form": "徐々に",
+      "reading": "じょじょに",
+      "meaning_zh": "逐漸",
+      "part_of_speech": "副詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 23,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0014",
+      "word": "はげる",
+      "surface_form": "はげる",
+      "reading": "はげる",
+      "meaning_zh": "剝落；褪色",
+      "part_of_speech": "自動詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 24,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0015",
+      "word": "しぐさ",
+      "surface_form": "しぐさ",
+      "reading": "しぐさ",
+      "meaning_zh": "動作；舉止",
+      "part_of_speech": "名詞",
+      "question_type": [
+        "synonym"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 25,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0016",
+      "word": "薄める",
+      "surface_form": "薄める",
+      "reading": "うすめる",
+      "meaning_zh": "稀釋；沖淡",
+      "part_of_speech": "他動詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 26,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0017",
+      "word": "充実",
+      "surface_form": "充実",
+      "reading": "じゅうじつ",
+      "meaning_zh": "充實",
+      "part_of_speech": "名詞・自動詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 27,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0018",
+      "word": "鮮明",
+      "surface_form": "鮮明",
+      "reading": "せんめい",
+      "meaning_zh": "鮮明；清晰",
+      "part_of_speech": "な形容詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 28,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0019",
+      "word": "ふもと",
+      "surface_form": "ふもと",
+      "reading": "ふもと",
+      "meaning_zh": "山腳",
+      "part_of_speech": "名詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 29,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    },
+    {
+      "id": "V0020",
+      "word": "定年",
+      "surface_form": "定年",
+      "reading": "ていねん",
+      "meaning_zh": "退休年齡；退休制度",
+      "part_of_speech": "名詞",
+      "question_type": [
+        "usage"
+      ],
+      "years": [
+        "2024-12"
+      ],
+      "appearances": 1,
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 30,
+          "appearance_type": "tested_word"
+        }
+      ],
+      "example": null,
+      "notes": "題目標示詞條；僅納入可讀原題的 tested_word。",
+      "needs_review": false
+    }
+  ],
+  "dataVersion": "1.1"
+}

@@ -1,0 +1,98 @@
+{
+  "exams": [
+    {
+      "exam": "2021-07",
+      "question_metadata_count": 47,
+      "verified_question_count": 0,
+      "answer_unknown_count": 47,
+      "incomplete_question_count": 0,
+      "ocr_pages": 11,
+      "low_quality_pages": [
+        2
+      ]
+    },
+    {
+      "exam": "2021-12",
+      "question_metadata_count": 47,
+      "verified_question_count": 0,
+      "answer_unknown_count": 47,
+      "incomplete_question_count": 0,
+      "ocr_pages": 4,
+      "low_quality_pages": []
+    },
+    {
+      "exam": "2022-07",
+      "question_metadata_count": 47,
+      "verified_question_count": 0,
+      "answer_unknown_count": 47,
+      "incomplete_question_count": 0,
+      "ocr_pages": 4,
+      "low_quality_pages": []
+    },
+    {
+      "exam": "2022-12",
+      "question_metadata_count": 47,
+      "verified_question_count": 0,
+      "answer_unknown_count": 47,
+      "incomplete_question_count": 0,
+      "ocr_pages": 4,
+      "low_quality_pages": []
+    },
+    {
+      "exam": "2023-07",
+      "question_metadata_count": 47,
+      "verified_question_count": 0,
+      "answer_unknown_count": 47,
+      "incomplete_question_count": 0,
+      "ocr_pages": 4,
+      "low_quality_pages": []
+    },
+    {
+      "exam": "2023-12",
+      "question_metadata_count": 47,
+      "verified_question_count": 11,
+      "answer_unknown_count": 0,
+      "incomplete_question_count": 0,
+      "ocr_pages": 11,
+      "low_quality_pages": [
+        9
+      ]
+    },
+    {
+      "exam": "2024-07",
+      "question_metadata_count": 47,
+      "verified_question_count": 0,
+      "answer_unknown_count": 47,
+      "incomplete_question_count": 0,
+      "ocr_pages": 11,
+      "low_quality_pages": []
+    },
+    {
+      "exam": "2024-12",
+      "question_metadata_count": 47,
+      "verified_question_count": 0,
+      "answer_unknown_count": 47,
+      "incomplete_question_count": 0,
+      "ocr_pages": 11,
+      "low_quality_pages": [
+        9
+      ]
+    },
+    {
+      "exam": "2025-07",
+      "question_metadata_count": 47,
+      "verified_question_count": 0,
+      "answer_unknown_count": 47,
+      "incomplete_question_count": 0,
+      "ocr_pages": 10,
+      "low_quality_pages": []
+    }
+  ],
+  "totals": {
+    "exam_count": 9,
+    "question_metadata_count": 423,
+    "verified_question_count": 11,
+    "vocabulary_records": 20,
+    "grammar_records": 12
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "ranking_basis": [
+    "correct_answer",
+    "tested_word"
+  ],
+  "scope_note": "僅列出目前人工整理且 OCR 可確認的18個目標詞條；不是九份試卷完整詞頻排行。",
+  "top": [
+    {
+      "rank": 1,
+      "word": "うつむく",
+      "reading": "うつむく",
+      "meaning_zh": "低頭；垂頭",
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 25,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "word": "しぐさ",
+      "reading": "しぐさ",
+      "meaning_zh": "動作；舉止",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 25,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "word": "はげる",
+      "reading": "はげる",
+      "meaning_zh": "剝落；褪色",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 24,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "word": "ふもと",
+      "reading": "ふもと",
+      "meaning_zh": "山腳",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 29,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "word": "ガイドする",
+      "reading": "がいどする",
+      "meaning_zh": "帶路；導覽",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 21,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "word": "上達",
+      "reading": "じょうたつ",
+      "meaning_zh": "進步；熟練",
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 28,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "word": "修正する",
+      "reading": "しゅうせいする",
+      "meaning_zh": "修正",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 22,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "word": "充実",
+      "reading": "じゅうじつ",
+      "meaning_zh": "充實",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 27,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "word": "各自",
+      "reading": "かくじ",
+      "meaning_zh": "各自；各人",
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 21,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "word": "同僚",
+      "reading": "どうりょう",
+      "meaning_zh": "同事",
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 24,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "word": "定年",
+      "reading": "ていねん",
+      "meaning_zh": "退休年齡；退休制度",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 30,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "word": "廃止",
+      "reading": "はいし",
+      "meaning_zh": "廢止",
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 26,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "word": "徐々に",
+      "reading": "じょじょに",
+      "meaning_zh": "逐漸",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 7,
+          "question": 23,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "word": "暮れ",
+      "reading": "くれ",
+      "meaning_zh": "年末；傍晚",
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 29,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "word": "残高",
+      "reading": "ざんだか",
+      "meaning_zh": "餘額",
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 8,
+          "question": 30,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "word": "深刻",
+      "reading": "しんこく",
+      "meaning_zh": "嚴重；深刻",
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 7,
+          "question": 23,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "word": "薄める",
+      "reading": "うすめる",
+      "meaning_zh": "稀釋；沖淡",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 26,
+          "appearance_type": "tested_word"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "word": "鮮明",
+      "reading": "せんめい",
+      "meaning_zh": "鮮明；清晰",
+      "appearances": 1,
+      "years": [
+        "2024-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2024-12",
+          "source_pdf": "【1】2024年12月日语N2真题.pdf",
+          "page": 8,
+          "question": 28,
+          "appearance_type": "tested_word"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+import {loadState} from "./storage.js";
+export function todayStats(){const now=new Date(), today=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,"0")}-${String(now.getDate()).padStart(2,"0")}`, rows=loadState().answers.filter(x=>(x.answer_date||x.wrong_date)===today);return {done:rows.length,correct:rows.filter(x=>x.correct).length,accuracy:rows.length?Math.round(rows.filter(x=>x.correct).length/rows.length*100):0}}
+export function masteryCounts(){const targets=Object.values(loadState().targets);return {vocabulary:targets.filter(x=>x.target_type==="vocabulary"&&x.status==="mastered").length,grammar:targets.filter(x=>x.target_type==="grammar"&&x.status==="mastered").length,weak:targets.filter(x=>x.status!=="mastered"&&x.wrong_count>0).length}}

@@ -1,0 +1,1 @@
+import { createWorker } from 'tesseract.js'; const w=await createWorker('jpn',1,{langPath:'.',gzip:false,cachePath:'./cache'}); const r=await w.recognize('2024-07-02.png',{}, {blocks:true}); console.log(Object.keys(r.data),r.data.confidence,r.data.blocks?.length,r.data.blocks?.[0]?.paragraphs?.[0]?.lines?.[0]?.words?.slice(0,3)); await w.terminate();

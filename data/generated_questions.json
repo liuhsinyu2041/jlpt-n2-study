@@ -1,0 +1,1435 @@
+{
+  "schema_version": "1.0",
+  "generated_questions": [
+    {
+      "id": "GV0001",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0001",
+      "target_type": "grammar",
+      "sentence": "参加者はみんな驚いていた。普段は冷静な彼（　）、しばらく言葉が出なかった。",
+      "choices": [
+        "に至っては",
+        "にしては",
+        "に比べて",
+        "に沿って"
+      ],
+      "answer": "に至っては",
+      "explanation": "列舉更極端的例子，表示「甚至連～也」。",
+      "translation_zh": "平常冷靜的他甚至一時說不出話來。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "舉出極端例子",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "表示以～而言",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "表示比較",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "表示依循",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q31",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0002",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0002",
+      "target_type": "grammar",
+      "sentence": "天候（　）、試合は予定どおり行います。",
+      "choices": [
+        "にかかわらず",
+        "によって",
+        "に比べて",
+        "にしたがって"
+      ],
+      "answer": "にかかわらず",
+      "explanation": "表示不受前項影響；天氣不改變比賽安排。",
+      "translation_zh": "不論天氣如何，比賽都會照原定計畫舉行。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "不論～都～",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "依～而異",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "與～相比",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "隨著～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q32",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0003",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0003",
+      "target_type": "grammar",
+      "sentence": "夢中で本を読んでいたら、（　）夜になっていた。",
+      "choices": [
+        "いつのまにか",
+        "まもなく",
+        "そのうち",
+        "いよいよ"
+      ],
+      "answer": "いつのまにか",
+      "explanation": "表示未察覺時間經過，符合「回過神來已經～」。",
+      "translation_zh": "看書看得入迷，回過神來已經晚上了。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "不知不覺間",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "馬上就要",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "過一陣子",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "終於／越發",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q33",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0004",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0004",
+      "target_type": "grammar",
+      "sentence": "この仕事は自由な（　）、結果に対する責任も大きい。",
+      "choices": [
+        "反面",
+        "ために",
+        "ことから",
+        "に応じて"
+      ],
+      "answer": "反面",
+      "explanation": "連接同一事物的相反兩面。",
+      "translation_zh": "這份工作自由，但另一方面，對結果的責任也很大。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "另一方面／相反地",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "因為～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "從～這件事可知",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "依照～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q34",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0005",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0005",
+      "target_type": "grammar",
+      "sentence": "簡単な説明（　）、今ここでお伝えできます。",
+      "choices": [
+        "でよければ",
+        "に限らず",
+        "に沿って",
+        "と比べて"
+      ],
+      "answer": "でよければ",
+      "explanation": "以「如果～可以的話」婉轉提出條件。",
+      "translation_zh": "如果簡單說明可以的話，我現在就能告訴你。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "如果～可以的話",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "不限於～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "按照～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "和～相比",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q35",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0006",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0006",
+      "target_type": "grammar",
+      "sentence": "駅に着いて電車に（　）、ドアが閉まってしまった。",
+      "choices": [
+        "乗ろうとしたら",
+        "乗ることにしたら",
+        "乗るようにしたら",
+        "乗るとしたら"
+      ],
+      "answer": "乗ろうとしたら",
+      "explanation": "意向形＋としたら表示正要做某事時發生意外情況。",
+      "translation_zh": "到車站正要搭電車時，車門就關上了。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "正要搭乘時",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "決定搭乘的話",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "開始養成搭乘習慣的話",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "假設要搭乘的話",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q36",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0007",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0007",
+      "target_type": "grammar",
+      "sentence": "展示室では作品に（　）、お願いいたします。",
+      "choices": [
+        "触れないよう",
+        "触れていただくよう",
+        "触れないため",
+        "触れていただくため"
+      ],
+      "answer": "触れないよう",
+      "explanation": "否定形＋ようお願いいたします是正式、禮貌的禁止請求。",
+      "translation_zh": "請勿觸摸展示室內的作品。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "請不要觸摸",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "請觸摸",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "為了不觸摸",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "為了請您觸摸",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q37",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0008",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0008",
+      "target_type": "grammar",
+      "sentence": "詳しい予定は、参加者の人数（　）変更することがあります。",
+      "choices": [
+        "次第で",
+        "のみで",
+        "にほかならず",
+        "でも不思議ではなく"
+      ],
+      "answer": "次第で",
+      "explanation": "名詞＋次第で表示「視～而定／取決於～」。",
+      "translation_zh": "詳細安排可能視參加人數而變更。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "視～而定",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "只有～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "正是～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "即使～也不奇怪",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q38",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": true,
+      "review_note": "來源真題考點需複核，暫不使用。"
+    },
+    {
+      "id": "GV0009",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0009",
+      "target_type": "grammar",
+      "sentence": "交通事情によって、バスが予定より遅れる（　）。",
+      "choices": [
+        "ことがある",
+        "ところだった",
+        "ばかりだ",
+        "ようにした"
+      ],
+      "answer": "ことがある",
+      "explanation": "動詞辭書形＋ことがある表示有時會發生。",
+      "translation_zh": "依交通狀況，巴士有時會比預定時間晚到。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "有時會～",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "差一點就～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "一直只是～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "設法使其～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q39",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0010",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0010",
+      "target_type": "grammar",
+      "sentence": "先輩の丁寧な説明は、私に自分でもできると（　）。",
+      "choices": [
+        "思わせてくれた",
+        "思わせてほしかった",
+        "思ってくれた",
+        "思わせることにした"
+      ],
+      "answer": "思わせてくれた",
+      "explanation": "使役形＋てくれる表示對方的行為使自己產生某種感受，帶有受惠語氣。",
+      "translation_zh": "前輩仔細的說明，讓我覺得自己也做得到。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "讓我這麼想（受惠）",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "希望別人讓我這麼想",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "對方替我這麼想",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "決定讓別人這麼想",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q40",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0011",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0011",
+      "target_type": "grammar",
+      "sentence": "私が資料をコピーして（　）ので、少々お待ちください。",
+      "choices": [
+        "まいります",
+        "くださいます",
+        "いらっしゃいます",
+        "おります"
+      ],
+      "answer": "まいります",
+      "explanation": "行って戻る情境下，「～てまいります」是謙讓說法。",
+      "translation_zh": "我去影印資料後就回來，請稍等一下。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "謙讓地表示去做後回來",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "尊敬對方替我做",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "尊敬對方去做",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "謙讓地表示正在做／狀態",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q41",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GV0012",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0012",
+      "target_type": "grammar",
+      "sentence": "明日の午前中までに返信して（　）。",
+      "choices": [
+        "もらえるとありがたいんですが",
+        "くれてありがたいです",
+        "もらわなければならないんですが",
+        "もよろしいでしょうか"
+      ],
+      "answer": "もらえるとありがたいんですが",
+      "explanation": "委婉請求對方做某事。",
+      "translation_zh": "如果能在明天上午前回覆，我會很感激。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "若能幫忙就感激（委婉請求）",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "感謝已經做了",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "表示自己必須做",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "詢問自己是否可以做",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q42",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX001",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0001",
+      "target_type": "grammar",
+      "sentence": "文化祭の準備は順調だったが、最後の舞台設営（　）、予定より時間がかかった。",
+      "choices": [
+        "に至っては",
+        "に際して",
+        "に沿って",
+        "に対して"
+      ],
+      "answer": "に至っては",
+      "explanation": "舉出更極端的例子。",
+      "translation_zh": "文化祭準備原本順利，但甚至最後的舞台搭設都比預定花更久。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "甚至連～也",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "在～之際",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "依循～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "對～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q31",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX002",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0001",
+      "target_type": "grammar",
+      "sentence": "家族は全員賛成した。慎重な父（　）、すぐに承諾した。",
+      "choices": [
+        "に至っては",
+        "にしても",
+        "に応じて",
+        "を通じて"
+      ],
+      "answer": "に至っては",
+      "explanation": "用於進一步舉出極端或意外的例子。",
+      "translation_zh": "全家人都贊成了。甚至一向謹慎的父親也立刻答應。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "甚至連～也",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "即使～也",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "依照～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "透過～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q31",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX003",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0002",
+      "target_type": "grammar",
+      "sentence": "経験の有無（　）、どなたでも応募できます。",
+      "choices": [
+        "にかかわらず",
+        "に応じて",
+        "にしたがって",
+        "に限って"
+      ],
+      "answer": "にかかわらず",
+      "explanation": "表示不論前項如何，後項都成立。",
+      "translation_zh": "不論有沒有經驗，任何人都可以應徵。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "不論～",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "依～而定",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "隨著～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "偏偏在～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q32",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX004",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0002",
+      "target_type": "grammar",
+      "sentence": "参加するかどうか（　）、資料は全員に配布します。",
+      "choices": [
+        "にかかわらず",
+        "につれて",
+        "に比べて",
+        "を通して"
+      ],
+      "answer": "にかかわらず",
+      "explanation": "「するかどうかにかかわらず」表示無論做不做都一樣。",
+      "translation_zh": "不論是否參加，資料都會發給所有人。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "不論～",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "隨著～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "和～相比",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "透過～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q32",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX005",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0003",
+      "target_type": "grammar",
+      "sentence": "仕事に集中していて、（　）昼休みが終わっていた。",
+      "choices": [
+        "いつのまにか",
+        "まもなく",
+        "そのうち",
+        "たちまち"
+      ],
+      "answer": "いつのまにか",
+      "explanation": "表示不知不覺間發生。",
+      "translation_zh": "專心工作著，回過神來午休已經結束。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "不知不覺間",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "不久即將",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "過一陣子",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "轉眼之間（強調速度）",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q33",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX006",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0003",
+      "target_type": "grammar",
+      "sentence": "窓の外を見たら、（　）雪が積もっていた。",
+      "choices": [
+        "いつのまにか",
+        "いよいよ",
+        "ただちに",
+        "あらかじめ"
+      ],
+      "answer": "いつのまにか",
+      "explanation": "表示未察覺的變化已經發生。",
+      "translation_zh": "往窗外一看，不知不覺間已積了雪。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "不知不覺間",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "終於／越發",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "立刻",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "事先",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q33",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX007",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0004",
+      "target_type": "grammar",
+      "sentence": "この町は交通が便利な（　）、夜はとても静かだ。",
+      "choices": [
+        "反面",
+        "うえで",
+        "ために",
+        "に応じて"
+      ],
+      "answer": "反面",
+      "explanation": "連接同一主題的相反兩面。",
+      "translation_zh": "這個城鎮交通方便，但另一方面夜晚非常安靜。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "另一方面",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "在～之後／方面",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "因為～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "依照～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q34",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX008",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0004",
+      "target_type": "grammar",
+      "sentence": "在宅勤務は通勤時間を減らせる（　）、同僚との相談が難しくなることもある。",
+      "choices": [
+        "反面",
+        "際に",
+        "あげく",
+        "だけに"
+      ],
+      "answer": "反面",
+      "explanation": "表示優點與相反一面並存。",
+      "translation_zh": "在家工作可以減少通勤時間，但另一方面有時也難以和同事討論。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "另一方面",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "在～之際",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "結果（多負面）",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "正因為～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q34",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX009",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0005",
+      "target_type": "grammar",
+      "sentence": "要点だけの資料（　）、今日中にお渡しできます。",
+      "choices": [
+        "でよければ",
+        "に限って",
+        "を通じて",
+        "の末に"
+      ],
+      "answer": "でよければ",
+      "explanation": "用「如果～可以的話」婉轉提出條件。",
+      "translation_zh": "如果只要重點版資料可以的話，我今天就能交給你。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "如果～可以的話",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "偏偏在～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "透過～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "經過～之後",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q35",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX010",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0005",
+      "target_type": "grammar",
+      "sentence": "短い面談（　）、午後に時間を取れます。",
+      "choices": [
+        "でよければ",
+        "に伴って",
+        "に先立って",
+        "どころか"
+      ],
+      "answer": "でよければ",
+      "explanation": "名詞＋でよければ表示若某條件可接受。",
+      "translation_zh": "如果簡短面談可以的話，我下午能安排時間。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "如果～可以的話",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "伴隨～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "在～之前",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "別說～連～都",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q35",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX011",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0006",
+      "target_type": "grammar",
+      "sentence": "窓を開け（　）、強い風が吹き込んできた。",
+      "choices": [
+        "ようとしたら",
+        "てから",
+        "ようにしたら",
+        "つもりなら"
+      ],
+      "answer": "ようとしたら",
+      "explanation": "意向形＋としたら表示正要做時發生意外。",
+      "translation_zh": "正要開窗時，強風吹了進來。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "正要～時",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "做完～之後",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "設法做～後",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "如果打算～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q36",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX012",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0006",
+      "target_type": "grammar",
+      "sentence": "写真を撮ろうとしたら、カメラの電池が切れていた。",
+      "choices": [
+        "撮ろうとしたら",
+        "撮ってから",
+        "撮るようにしたら",
+        "撮るつもりなら"
+      ],
+      "answer": "撮ろうとしたら",
+      "explanation": "正要拍照時出現未預期情況。",
+      "translation_zh": "正要拍照時，相機電池沒電了。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "正要拍照時",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "拍完照之後",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "養成拍照習慣後",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "如果打算拍照",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q36",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX013",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0007",
+      "target_type": "grammar",
+      "sentence": "会場内では携帯電話で通話（　）、お願いいたします。",
+      "choices": [
+        "なさらないよう",
+        "していただくよう",
+        "なさらないため",
+        "していただくため"
+      ],
+      "answer": "なさらないよう",
+      "explanation": "尊敬語否定＋ようお願いいたします，作為正式禁止請求。",
+      "translation_zh": "請勿在會場內使用手機通話。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "請不要～",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "請您～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "為了不～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "為了請您～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q37",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX014",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0007",
+      "target_type": "grammar",
+      "sentence": "ご利用後は、窓を開けたままに（　）、お願いいたします。",
+      "choices": [
+        "しないよう",
+        "していただくよう",
+        "しないため",
+        "していただくため"
+      ],
+      "answer": "しないよう",
+      "explanation": "否定形＋ようお願いいたします是禮貌的禁止表達。",
+      "translation_zh": "使用後請不要讓窗戶一直開著。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "請不要～",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "請您做～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "為了不～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "為了請您做～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q37",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX015",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0009",
+      "target_type": "grammar",
+      "sentence": "この地域では、冬になると水道管が凍る（　）。",
+      "choices": [
+        "ことがある",
+        "ところだった",
+        "ばかりだ",
+        "ようにする"
+      ],
+      "answer": "ことがある",
+      "explanation": "動詞辭書形＋ことがある表示有時會發生。",
+      "translation_zh": "這個地區一到冬天，水管有時會結冰。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "有時會～",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "差一點就～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "只是不斷～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "設法使～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q39",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX016",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0009",
+      "target_type": "grammar",
+      "sentence": "この機械は、長時間使うと熱くなる（　）ので注意してください。",
+      "choices": [
+        "ことがある",
+        "ことにする",
+        "ところだった",
+        "ようになる"
+      ],
+      "answer": "ことがある",
+      "explanation": "描述偶爾會發生的情況。",
+      "translation_zh": "這台機器長時間使用後有時會變熱，請注意。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "有時會～",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "決定做～",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "差一點就～",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "變得會～",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q39",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX017",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0010",
+      "target_type": "grammar",
+      "sentence": "失敗を恐れていた私に、先生の言葉はもう一度試してみようと（　）。",
+      "choices": [
+        "思わせてくれた",
+        "思ってくれた",
+        "思わせてほしかった",
+        "思うことにした"
+      ],
+      "answer": "思わせてくれた",
+      "explanation": "對方的話使自己產生某種想法，てくれる帶受惠語氣。",
+      "translation_zh": "對於害怕失敗的我，老師的話讓我想再試一次。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "讓我這麼想（受惠）",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "對方替我這麼想",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "希望別人讓我這麼想",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "決定這麼想",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q40",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX018",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0010",
+      "target_type": "grammar",
+      "sentence": "友人の体験談は、私にも留学に挑戦できると（　）。",
+      "choices": [
+        "感じさせてくれた",
+        "感じてくれた",
+        "感じさせてほしかった",
+        "感じることにした"
+      ],
+      "answer": "感じさせてくれた",
+      "explanation": "使役＋てくれる表示對方的經歷使我產生感受。",
+      "translation_zh": "朋友的經歷也讓我覺得自己能挑戰留學。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "讓我感受到（受惠）",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "對方替我感受",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "希望別人讓我感受",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "決定感受",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q40",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX019",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0011",
+      "target_type": "grammar",
+      "sentence": "お客様を担当者の席までご案内して（　）ので、こちらでお待ちください。",
+      "choices": [
+        "まいります",
+        "くださいます",
+        "いらっしゃいます",
+        "おります"
+      ],
+      "answer": "まいります",
+      "explanation": "說話者自己去做並返回時用謙讓語まいります。",
+      "translation_zh": "我去帶客人到負責人座位，請在這裡稍等。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "謙讓地去做再回來",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "尊敬對方替我做",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "尊敬對方去做",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "謙讓地表示狀態",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q41",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX020",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0011",
+      "target_type": "grammar",
+      "sentence": "ただいま在庫を確認して（　）。少々お待ちください。",
+      "choices": [
+        "まいります",
+        "くださいます",
+        "いらっしゃいます",
+        "おります"
+      ],
+      "answer": "まいります",
+      "explanation": "行って戻る時的謙讓說法。",
+      "translation_zh": "我現在去確認庫存，請稍等一下。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "謙讓地去確認再回來",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "尊敬對方確認",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "尊敬對方正在確認",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "謙讓地表示正在確認（無往返語意）",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q41",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX021",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0012",
+      "target_type": "grammar",
+      "sentence": "ご都合のよい日時を二つほど教えて（　）。",
+      "choices": [
+        "もらえるとありがたいのですが",
+        "くれてありがたかったです",
+        "もらわなければならないのですが",
+        "もよろしいでしょうか"
+      ],
+      "answer": "もらえるとありがたいのですが",
+      "explanation": "委婉請求對方提供資訊。",
+      "translation_zh": "如果能告訴我兩個方便的日期時間，我會很感激。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "若能幫忙就太感謝了",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "感謝已經做了",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "表示自己必須做",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "詢問自己是否可以做",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q42",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    },
+    {
+      "id": "GVX022",
+      "question_type": "grammar_multiple_choice",
+      "target_id": "G0012",
+      "target_type": "grammar",
+      "sentence": "確認のため、申込番号をメールで送って（　）。",
+      "choices": [
+        "もらえるとありがたいんですが",
+        "くれてありがたいです",
+        "もらわなければなりません",
+        "もよろしいでしょうか"
+      ],
+      "answer": "もらえるとありがたいんですが",
+      "explanation": "以受惠表達委婉請求對方提供資料。",
+      "translation_zh": "為了確認，如果能用電子郵件寄申請編號給我就太感謝了。",
+      "option_explanations": [
+        {
+          "option": 1,
+          "text": "若能幫忙就感激",
+          "correct": true
+        },
+        {
+          "option": 2,
+          "text": "感謝已完成",
+          "correct": false
+        },
+        {
+          "option": 3,
+          "text": "表示必須收到",
+          "correct": false
+        },
+        {
+          "option": 4,
+          "text": "詢問自己是否可以",
+          "correct": false
+        }
+      ],
+      "generated_from": "2023-12-Q42",
+      "difficulty": "N2",
+      "source_type": "generated",
+      "needs_review": false
+    }
+  ],
+  "dataVersion": "1.1"
+}

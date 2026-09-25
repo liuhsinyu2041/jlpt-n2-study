@@ -1,0 +1,3 @@
+import {loadState} from "./storage.js";
+export function mistakeRows(filter="all"){const s=loadState();return Object.values(s.mistakeItems).filter(x=>filter==="all"||x.target_type===filter).sort((a,b)=>b.wrong_count-a.wrong_count||b.last_review_date.localeCompare(a.last_review_date))}
+export function weakPointRows(){const s=loadState(), groups={};for(const a of s.answers){if(!a.target_id)continue;const g=groups[a.target_id]||{id:a.target_id,type:a.target_type,wrong:0,correct:0,status:a.mastery_status};a.correct?g.correct++:g.wrong++;g.status=a.mastery_status;groups[a.target_id]=g}return Object.values(groups).sort((a,b)=>b.wrong-a.wrong)}

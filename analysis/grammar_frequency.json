@@ -1,0 +1,240 @@
+{
+  "ranking_basis": [
+    "correct_answer",
+    "tested_word"
+  ],
+  "scope_note": "目前只列出已核實的2023-12文法真題考點；其餘八回尚未完成逐題結構及答案核實。",
+  "top": [
+    {
+      "rank": 1,
+      "grammar_family": "〜ことがある",
+      "grammar_variants": [
+        "〜ことがある"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 39,
+          "appearance_type": "correct_answer",
+          "answer_option": 3
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "grammar_family": "〜させてくれる",
+      "grammar_variants": [
+        "〜させてくれる"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 40,
+          "appearance_type": "correct_answer",
+          "answer_option": 3
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "grammar_family": "〜てまいります",
+      "grammar_variants": [
+        "〜てまいります"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 41,
+          "appearance_type": "correct_answer",
+          "answer_option": 2
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "grammar_family": "〜てもらえるとありがたい",
+      "grammar_variants": [
+        "〜てもらえるとありがたい"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 11,
+          "question": 42,
+          "appearance_type": "correct_answer",
+          "answer_option": 4
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "grammar_family": "〜でよければ",
+      "grammar_variants": [
+        "〜でよければ"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 35,
+          "appearance_type": "correct_answer",
+          "answer_option": 2
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "grammar_family": "〜ないようお願いいたします",
+      "grammar_variants": [
+        "〜ないようお願いいたします"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 37,
+          "appearance_type": "correct_answer",
+          "answer_option": 1
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "grammar_family": "〜にかかわらず",
+      "grammar_variants": [
+        "〜にかかわらず"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 32,
+          "appearance_type": "correct_answer",
+          "answer_option": 4
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "grammar_family": "〜に至っては",
+      "grammar_variants": [
+        "〜に至っては"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 31,
+          "appearance_type": "correct_answer",
+          "answer_option": 4
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "grammar_family": "〜ようとしたら",
+      "grammar_variants": [
+        "〜ようとしたら"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 36,
+          "appearance_type": "correct_answer",
+          "answer_option": 1
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "grammar_family": "〜反面",
+      "grammar_variants": [
+        "〜反面"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 34,
+          "appearance_type": "correct_answer",
+          "answer_option": 1
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "grammar_family": "いつのまにか",
+      "grammar_variants": [
+        "いつのまにか"
+      ],
+      "appearances": 1,
+      "years": [
+        "2023-12"
+      ],
+      "source_questions": [
+        {
+          "exam": "2023-12",
+          "source_pdf": "2023年12月日语N2真题试卷(1).pdf",
+          "page": 10,
+          "question": 33,
+          "appearance_type": "correct_answer",
+          "answer_option": 3
+        }
+      ]
+    }
+  ]
+}
