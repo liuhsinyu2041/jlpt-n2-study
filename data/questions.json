@@ -2060,16 +2060,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 1,
+      "problem_number": 1,
       "question_type": "reading",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "美しい情景が目に浮かんだ。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "じょうけい"
+        },
+        {
+          "option": 2,
+          "text": "じょけい"
+        },
+        {
+          "option": 3,
+          "text": "じょうえい"
+        },
+        {
+          "option": 4,
+          "text": "じょえい"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "じょうけい",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "情景",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:情景",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「情景」讀作「じょうけい」，指眼前或想像中的景象。"
     },
     {
       "id": "2021-12-Q02",
@@ -2079,16 +2103,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 2,
+      "problem_number": 1,
       "question_type": "reading",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この世代の人達はコンピューターの知識が乏しいように思う。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "くわしい"
+        },
+        {
+          "option": 2,
+          "text": "とぼしい"
+        },
+        {
+          "option": 3,
+          "text": "まずしい"
+        },
+        {
+          "option": 4,
+          "text": "あやしい"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "とぼしい",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "乏しい",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:乏しい",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「乏しい」讀作「とぼしい」，表示缺乏、不充足。"
     },
     {
       "id": "2021-12-Q03",
@@ -2098,16 +2146,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 3,
+      "problem_number": 1,
       "question_type": "reading",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "ボランティアでお年寄りの介護をしている。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "かいごう"
+        },
+        {
+          "option": 2,
+          "text": "かんごう"
+        },
+        {
+          "option": 3,
+          "text": "かいご"
+        },
+        {
+          "option": 4,
+          "text": "かんご"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "かいご",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "介護",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:介護",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「介護」讀作「かいご」，指照護需要協助的人。"
     },
     {
       "id": "2021-12-Q04",
@@ -2117,16 +2189,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 4,
+      "problem_number": 1,
       "question_type": "reading",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "今頃になって焦ってもしかたがない。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "あせっても"
+        },
+        {
+          "option": 2,
+          "text": "しかっても"
+        },
+        {
+          "option": 3,
+          "text": "まよっても"
+        },
+        {
+          "option": 4,
+          "text": "いのっても"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "あせっても",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "焦る",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:焦る",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「焦る」讀作「あせる」，表示著急、焦躁。"
     },
     {
       "id": "2021-12-Q05",
@@ -2136,16 +2232,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 5,
+      "problem_number": 1,
       "question_type": "reading",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "高速道路の建設については、賛否が分かれた。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "さんふ"
+        },
+        {
+          "option": 2,
+          "text": "さんぽ"
+        },
+        {
+          "option": 3,
+          "text": "さんひ"
+        },
+        {
+          "option": 4,
+          "text": "さんぴ"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "さんぴ",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "賛否",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:賛否",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「賛否」讀作「さんぴ」，指贊成與反對。"
     },
     {
       "id": "2021-12-Q06",
@@ -2155,16 +2275,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 6,
+      "problem_number": 2,
       "question_type": "kanji_writing",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この仕事は、山本さんにまかせておけば安心です。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "仕せて"
+        },
+        {
+          "option": 2,
+          "text": "担せて"
+        },
+        {
+          "option": 3,
+          "text": "任せて"
+        },
+        {
+          "option": 4,
+          "text": "但せて"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "任せて",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "任せる",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:任せる",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「まかせる」寫作「任せる」，表示交給某人處理。"
     },
     {
       "id": "2021-12-Q07",
@@ -2174,16 +2318,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 7,
+      "problem_number": 2,
       "question_type": "kanji_writing",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "新入生をテニスサークルにかんゆうした。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "勧誘"
+        },
+        {
+          "option": 2,
+          "text": "勧遊"
+        },
+        {
+          "option": 3,
+          "text": "観誘"
+        },
+        {
+          "option": 4,
+          "text": "観遊"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "勧誘",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "勧誘",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:勧誘",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「かんゆう」寫作「勧誘」，表示勸說、招攬加入。"
     },
     {
       "id": "2021-12-Q08",
@@ -2193,16 +2361,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 8,
+      "problem_number": 2,
       "question_type": "kanji_writing",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この計画はじゅんちょうに進んでいる。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "準長"
+        },
+        {
+          "option": 2,
+          "text": "準調"
+        },
+        {
+          "option": 3,
+          "text": "順長"
+        },
+        {
+          "option": 4,
+          "text": "順調"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "順調",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "順調",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:順調",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「じゅんちょう」寫作「順調」，表示事情順利進行。"
     },
     {
       "id": "2021-12-Q09",
@@ -2212,16 +2404,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 9,
+      "problem_number": 2,
       "question_type": "kanji_writing",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "落ち葉がつもった道を歩いた。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "詰もった"
+        },
+        {
+          "option": 2,
+          "text": "満もった"
+        },
+        {
+          "option": 3,
+          "text": "占もった"
+        },
+        {
+          "option": 4,
+          "text": "積もった"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "積もった",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "積もる",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:積もる",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「つもる」在此寫作「積もる」，表示堆積。"
     },
     {
       "id": "2021-12-Q10",
@@ -2231,16 +2447,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 10,
+      "problem_number": 2,
       "question_type": "kanji_writing",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この状態がえいきゅうに続くわけではない。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "延久"
+        },
+        {
+          "option": 2,
+          "text": "永久"
+        },
+        {
+          "option": 3,
+          "text": "延及"
+        },
+        {
+          "option": 4,
+          "text": "永及"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "永久",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "永久",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:永久",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「えいきゅう」寫作「永久」，表示永遠、長久。"
     },
     {
       "id": "2021-12-Q11",
@@ -2250,16 +2490,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 11,
+      "problem_number": 3,
       "question_type": "word_formation",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "私も山口さんと（　）意見です。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "等"
+        },
+        {
+          "option": 2,
+          "text": "同"
+        },
+        {
+          "option": 3,
+          "text": "共"
+        },
+        {
+          "option": 4,
+          "text": "似"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "同",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "同",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:同",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「同意見」表示相同的意見。"
     },
     {
       "id": "2021-12-Q12",
@@ -2269,16 +2533,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 12,
+      "problem_number": 3,
       "question_type": "word_formation",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "このバナナは甘い香りがするので、そろそろ食べ（　）ですよ。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "頃"
+        },
+        {
+          "option": 2,
+          "text": "期"
+        },
+        {
+          "option": 3,
+          "text": "刻"
+        },
+        {
+          "option": 4,
+          "text": "節"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "頃",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "食べ頃",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:食べ頃",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「食べ頃」表示最適合食用的時候。"
     },
     {
       "id": "2021-12-Q13",
@@ -2288,16 +2576,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 13,
+      "problem_number": 3,
       "question_type": "word_formation",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "本登録の前に、まずは（　）登録を行ってください。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "先"
+        },
+        {
+          "option": 2,
+          "text": "予"
+        },
+        {
+          "option": 3,
+          "text": "仮"
+        },
+        {
+          "option": 4,
+          "text": "近"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "仮",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "仮登録",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:仮登録",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「仮登録」表示正式登錄前的暫時登錄。"
     },
     {
       "id": "2021-12-Q14",
@@ -2307,16 +2619,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 14,
+      "problem_number": 4,
       "question_type": "contextual_vocabulary",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "学生の頃、宿題は（　）になってからやることが多かった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "びりびり"
+        },
+        {
+          "option": 2,
+          "text": "ばりばり"
+        },
+        {
+          "option": 3,
+          "text": "ぎりぎり"
+        },
+        {
+          "option": 4,
+          "text": "じりじり"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "ぎりぎり",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "ぎりぎり",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:ぎりぎり",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「ぎりぎり」表示接近期限或極限。"
     },
     {
       "id": "2021-12-Q15",
@@ -2326,16 +2662,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 15,
+      "problem_number": 4,
       "question_type": "contextual_vocabulary",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "生命保険を（　）したいので、手続きを教えてください。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "廃止"
+        },
+        {
+          "option": 2,
+          "text": "解約"
+        },
+        {
+          "option": 3,
+          "text": "中止"
+        },
+        {
+          "option": 4,
+          "text": "解消"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "解約",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "解約",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:解約",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "契約型服務要終止時用「解約する」。"
     },
     {
       "id": "2021-12-Q16",
@@ -2345,16 +2705,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 16,
+      "problem_number": 4,
       "question_type": "contextual_vocabulary",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "私たちは、お客様の（　）に対応したサービスを提供しています。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ニーズ"
+        },
+        {
+          "option": 2,
+          "text": "ストライキ"
+        },
+        {
+          "option": 3,
+          "text": "セールス"
+        },
+        {
+          "option": 4,
+          "text": "エコノミー"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "ニーズ",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "ニーズ",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:ニーズ",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「ニーズ」表示需求。"
     },
     {
       "id": "2021-12-Q17",
@@ -2364,16 +2748,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 17,
+      "problem_number": 4,
       "question_type": "contextual_vocabulary",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "来年ここに新しい支店を（　）することが決まった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "創造"
+        },
+        {
+          "option": 2,
+          "text": "形成"
+        },
+        {
+          "option": 3,
+          "text": "工作"
+        },
+        {
+          "option": 4,
+          "text": "開設"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "開設",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "開設",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:開設",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「支店を開設する」表示開設分店。"
     },
     {
       "id": "2021-12-Q18",
@@ -2383,16 +2791,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 3,
       "question_number": 18,
+      "problem_number": 4,
       "question_type": "contextual_vocabulary",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "卒業パーティーには、ちゃんとした（　）で行ったほうがいいのかな。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "様子"
+        },
+        {
+          "option": 2,
+          "text": "容姿"
+        },
+        {
+          "option": 3,
+          "text": "外見"
+        },
+        {
+          "option": 4,
+          "text": "格好"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "格好",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "格好",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:格好",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「ちゃんとした格好」表示得體的穿著打扮。"
     },
     {
       "id": "2021-12-Q19",
@@ -2400,18 +2832,42 @@
       "year": 2021,
       "month": 12,
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
-      "pdf_page": 3,
+      "pdf_page": 4,
       "question_number": 19,
+      "problem_number": 4,
       "question_type": "contextual_vocabulary",
-      "page_transcript_ref": "2021-12-p3",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "店が忙しい時は臨時にアルバイトを（　）いる。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "つかんで"
+        },
+        {
+          "option": 2,
+          "text": "ふくんで"
+        },
+        {
+          "option": 3,
+          "text": "やとって"
+        },
+        {
+          "option": 4,
+          "text": "かせいで"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "やとって",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "雇う",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:雇う",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「アルバイトを雇う」表示僱用打工人員。"
     },
     {
       "id": "2021-12-Q20",
@@ -2421,16 +2877,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 20,
+      "problem_number": 4,
       "question_type": "contextual_vocabulary",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "誰にも言えずにずっと悩んでいたが、昨日親友に（　）相談してみた。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "思いきって"
+        },
+        {
+          "option": 2,
+          "text": "うっかり"
+        },
+        {
+          "option": 3,
+          "text": "せっかく"
+        },
+        {
+          "option": 4,
+          "text": "知らず知らず"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "思いきって",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "思いきって",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:思いきって",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「思いきって」表示下定決心、大膽地去做。"
     },
     {
       "id": "2021-12-Q21",
@@ -2440,16 +2920,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 21,
+      "problem_number": 5,
       "question_type": "synonym",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "私の会社は最寄りの駅から歩いて15分です。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "一番大きい"
+        },
+        {
+          "option": 2,
+          "text": "一番近い"
+        },
+        {
+          "option": 3,
+          "text": "終点の"
+        },
+        {
+          "option": 4,
+          "text": "始発の"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "一番近い",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "最寄り",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:最寄り",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「最寄り」表示最近、最靠近。"
     },
     {
       "id": "2021-12-Q22",
@@ -2459,16 +2963,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 22,
+      "problem_number": 5,
       "question_type": "synonym",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "演奏会で着るドレスは、いつも近所の店でレンタルしています。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "作って"
+        },
+        {
+          "option": 2,
+          "text": "買って"
+        },
+        {
+          "option": 3,
+          "text": "直して"
+        },
+        {
+          "option": 4,
+          "text": "借りて"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "借りて",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "レンタル",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:レンタル",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「レンタルする」就是借用、租借。"
     },
     {
       "id": "2021-12-Q23",
@@ -2478,16 +3006,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 23,
+      "problem_number": 5,
       "question_type": "synonym",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "村上さんはほかの人に指図されるのが嫌いだそうだ。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "命令"
+        },
+        {
+          "option": 2,
+          "text": "反対"
+        },
+        {
+          "option": 3,
+          "text": "注意"
+        },
+        {
+          "option": 4,
+          "text": "自慢"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "命令",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "指図",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:指図",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「指図する」表示命令、指示別人做事。"
     },
     {
       "id": "2021-12-Q24",
@@ -2497,16 +3049,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 24,
+      "problem_number": 5,
       "question_type": "synonym",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この時期に旅行するなら、かさは欠かせない。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ないといい"
+        },
+        {
+          "option": 2,
+          "text": "あるとじゃまだ"
+        },
+        {
+          "option": 3,
+          "text": "ないと困る"
+        },
+        {
+          "option": 4,
+          "text": "あると便利だ"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "ないと困る",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "欠かせない",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:欠かせない",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「欠かせない」表示不可缺少，沒有會困擾。"
     },
     {
       "id": "2021-12-Q25",
@@ -2516,16 +3092,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 25,
+      "problem_number": 5,
       "question_type": "synonym",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "雨は依然強かった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "確かに"
+        },
+        {
+          "option": 2,
+          "text": "まだ"
+        },
+        {
+          "option": 3,
+          "text": "意外に"
+        },
+        {
+          "option": 4,
+          "text": "とても"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "まだ",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "依然",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:依然",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「依然」表示仍然、依舊。"
     },
     {
       "id": "2021-12-Q26",
@@ -2535,16 +3135,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 26,
+      "problem_number": 6,
       "question_type": "usage",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "「栽培」の使い方として最もよいものを選びなさい。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "両親は牧場で牛を栽培して、チーズを作っています"
+        },
+        {
+          "option": 2,
+          "text": "私は今、生まれて半年の赤ちゃんを栽培しています"
+        },
+        {
+          "option": 3,
+          "text": "庭で見つけた虫の卵を栽培して、観察日記を書いた"
+        },
+        {
+          "option": 4,
+          "text": "この農場では、農薬を使わずに野菜を栽培しています"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "この農場では、農薬を使わずに野菜を栽培しています",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "栽培",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:栽培",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「栽培」は野菜・植物などを育てるときに使う。"
     },
     {
       "id": "2021-12-Q27",
@@ -2554,16 +3178,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 27,
+      "problem_number": 6,
       "question_type": "usage",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "「急激」の使い方として最もよいものを選びなさい。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "イベントの開催日が近くなり、準備が急激に進められている"
+        },
+        {
+          "option": 2,
+          "text": "新しい駅ができて、市の人口が急激に増加している"
+        },
+        {
+          "option": 3,
+          "text": "このパンは非常に人気があり、朝8時に開店すると急激に売れていく"
+        },
+        {
+          "option": 4,
+          "text": "人気歌手が現れると、ファンの人たちが急激に取り囲んだ"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "新しい駅ができて、市の人口が急激に増加している",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "急激",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:急激",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「急激」表示變化在短時間內非常劇烈，常與増加・変化等搭配。"
     },
     {
       "id": "2021-12-Q28",
@@ -2573,16 +3221,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 28,
+      "problem_number": 6,
       "question_type": "usage",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "「漏れる」の使い方として最もよいものを選びなさい。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ジュースを注ぎすぎて、コップから漏れてしまった"
+        },
+        {
+          "option": 2,
+          "text": "転んでしまって、膝から血が漏れてきた"
+        },
+        {
+          "option": 3,
+          "text": "水道管に穴が開いているのか、水が漏れてきている"
+        },
+        {
+          "option": 4,
+          "text": "悲しい映画を見たせいか、涙が漏れてきた"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "水道管に穴が開いているのか、水が漏れてきている",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "漏れる",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:漏れる",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「水が漏れる」表示液體從縫隙或洞中滲漏。"
     },
     {
       "id": "2021-12-Q29",
@@ -2592,16 +3264,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 29,
+      "problem_number": 6,
       "question_type": "usage",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "「傾向」の使い方として最もよいものを選びなさい。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ファッション誌によると、今年は黄色が傾向するそうだ"
+        },
+        {
+          "option": 2,
+          "text": "最近では、家族がばらばらに食事する傾向がある"
+        },
+        {
+          "option": 3,
+          "text": "姉は日本文学の研究に傾向している"
+        },
+        {
+          "option": 4,
+          "text": "この坂は傾向がきつくて、自転車だとつらい"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "最近では、家族がばらばらに食事する傾向がある",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "傾向",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:傾向",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「〜する傾向がある」表示具有某種趨勢或傾向。"
     },
     {
       "id": "2021-12-Q30",
@@ -2611,16 +3307,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 30,
+      "problem_number": 6,
       "question_type": "usage",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "「さっさと」の使い方として最もよいものを選びなさい。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "いつまでもテレビを見ていないで、さっさと宿題をしなさい"
+        },
+        {
+          "option": 2,
+          "text": "雷鳴りが出したと思ったら、さっさと雨が降り出した"
+        },
+        {
+          "option": 3,
+          "text": "さっさと着くので、もう少しそこで待っていてください"
+        },
+        {
+          "option": 4,
+          "text": "買ってまだ一週間なのに、さっさと壊れた"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "いつまでもテレビを見ていないで、さっさと宿題をしなさい",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "さっさと",
+      "target_type": "vocabulary",
+      "target_id": "vocabulary:さっさと",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「さっさと」表示迅速俐落地做某事，常帶催促語氣。"
     },
     {
       "id": "2021-12-Q31",
@@ -2630,16 +3350,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 4,
       "question_number": 31,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p4",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "A「田中さんに話があるんだけど、今、会議中？」B「うん。」A「じゃあ、会議が終わるのを待つ（　）ないね。」",
+      "choices": [
+        {
+          "option": 1,
+          "text": "しか"
+        },
+        {
+          "option": 2,
+          "text": "だけ"
+        },
+        {
+          "option": 3,
+          "text": "まで"
+        },
+        {
+          "option": 4,
+          "text": "さえ"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "しか",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "しかない",
+      "target_type": "grammar",
+      "target_id": "grammar:しかない",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「〜しかない」表示只能～、除此之外沒有辦法。"
     },
     {
       "id": "2021-12-Q32",
@@ -2649,16 +3393,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 32,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "この道路拡張計画を（　）にあたっては、市民の皆様のご理解が必要です。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "進めた"
+        },
+        {
+          "option": 2,
+          "text": "進める"
+        },
+        {
+          "option": 3,
+          "text": "進めたい"
+        },
+        {
+          "option": 4,
+          "text": "進めよう"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "進める",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜にあたって",
+      "target_type": "grammar",
+      "target_id": "grammar:〜にあたって",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「V辞書形＋にあたって」表示在進行重要事情之際。"
     },
     {
       "id": "2021-12-Q33",
@@ -2668,16 +3436,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 33,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "今日の試合は大雪で延期になった。（　）この時期に大雪になるとは思わなかった。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "一体"
+        },
+        {
+          "option": 2,
+          "text": "二度と"
+        },
+        {
+          "option": 3,
+          "text": "まさか"
+        },
+        {
+          "option": 4,
+          "text": "かえって"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "まさか",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "まさか",
+      "target_type": "grammar",
+      "target_id": "grammar:まさか",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「まさか」表示出乎意料、沒想到。"
     },
     {
       "id": "2021-12-Q34",
@@ -2687,16 +3479,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 34,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "水泳クラブの山田コーチは、私たちにとってコーチ（　）兄のような存在です。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "に限らず"
+        },
+        {
+          "option": 2,
+          "text": "なしには"
+        },
+        {
+          "option": 3,
+          "text": "のおかげで"
+        },
+        {
+          "option": 4,
+          "text": "というより"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "というより",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜というより",
+      "target_type": "grammar",
+      "target_id": "grammar:〜というより",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「AというよりB」表示與其說A，不如說B。"
     },
     {
       "id": "2021-12-Q35",
@@ -2706,16 +3522,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 35,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "X社の健康食品はテレビ番組で紹介（　）以来、とても売れている。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "されて"
+        },
+        {
+          "option": 2,
+          "text": "される"
+        },
+        {
+          "option": 3,
+          "text": "されている"
+        },
+        {
+          "option": 4,
+          "text": "された"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "されて",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜て以来",
+      "target_type": "grammar",
+      "target_id": "grammar:〜て以来",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「Vて以来」表示自從某件事發生後，狀態持續至今。"
     },
     {
       "id": "2021-12-Q36",
@@ -2725,16 +3565,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 36,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "（店で）A「このシャツ、かわいい。でも、会社に着ていくには派手かな。」B「うん。デートで着る（　）、仕事には派手すぎるよ。」",
+      "choices": [
+        {
+          "option": 1,
+          "text": "にしては"
+        },
+        {
+          "option": 2,
+          "text": "としたら"
+        },
+        {
+          "option": 3,
+          "text": "ならともかく"
+        },
+        {
+          "option": 4,
+          "text": "からとはいえ"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "ならともかく",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜ならともかく",
+      "target_type": "grammar",
+      "target_id": "grammar:〜ならともかく",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「AならともかくB」表示A姑且不論，但B則不同。"
     },
     {
       "id": "2021-12-Q37",
@@ -2744,16 +3608,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 37,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "娘は、社会人（　）朝一人で起きられない。私が起こさないといつまでも寝ている。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "にもなって"
+        },
+        {
+          "option": 2,
+          "text": "にもなれば"
+        },
+        {
+          "option": 3,
+          "text": "にでもなって"
+        },
+        {
+          "option": 4,
+          "text": "にでもなれば"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "にでもなって",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜にでもなって",
+      "target_type": "grammar",
+      "target_id": "grammar:〜にでもなって",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "本卷答案鍵為選項3。此題屬於「Nにでもなって」相關用法辨識。"
     },
     {
       "id": "2021-12-Q38",
@@ -2763,16 +3651,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 38,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "友達は、お茶でうがいを（　）、風邪をひかなくなったらしい。私も始めてみようと思う。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "しようとすれば"
+        },
+        {
+          "option": 2,
+          "text": "しようとしたことで"
+        },
+        {
+          "option": 3,
+          "text": "するようにすれば"
+        },
+        {
+          "option": 4,
+          "text": "するようにしたことで"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "するようにしたことで",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜ようにしたことで",
+      "target_type": "grammar",
+      "target_id": "grammar:〜ようにしたことで",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「〜ようにしたことで」表示因開始養成某個習慣而產生結果。"
     },
     {
       "id": "2021-12-Q39",
@@ -2782,16 +3694,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 39,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "彼女があのとき何を考えていたのか知りたいけれど、今はもう会うこともないので（　）。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "確かめかねない"
+        },
+        {
+          "option": 2,
+          "text": "確かめるほかない"
+        },
+        {
+          "option": 3,
+          "text": "確かめようがない"
+        },
+        {
+          "option": 4,
+          "text": "確かめるわけではない"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "確かめようがない",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜ようがない",
+      "target_type": "grammar",
+      "target_id": "grammar:〜ようがない",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「Vます形＋ようがない」表示沒有方法、無法做到。"
     },
     {
       "id": "2021-12-Q40",
@@ -2801,16 +3737,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 40,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "（不動産屋で）店員「お客様、本日いくつかのお部屋を（　）が、ご希望に合うお部屋はございましたか。」客「最初の部屋がいいなと思ったんですが、ちょっと検討させてください。」",
+      "choices": [
+        {
+          "option": 1,
+          "text": "参りました"
+        },
+        {
+          "option": 2,
+          "text": "拝見しました"
+        },
+        {
+          "option": 3,
+          "text": "お越しいただきました"
+        },
+        {
+          "option": 4,
+          "text": "ご覧いただきました"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "ご覧いただきました",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "ご覧いただく",
+      "target_type": "grammar",
+      "target_id": "grammar:ご覧いただく",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "對客人說「看過房間」使用尊敬表現「ご覧いただきました」。"
     },
     {
       "id": "2021-12-Q41",
@@ -2820,16 +3780,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 41,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "カレーを大量に作りすぎて、一人では食べ（　）と思ったので、友人をよんで食べた。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "切れるかもしれない"
+        },
+        {
+          "option": 2,
+          "text": "切れそうにない"
+        },
+        {
+          "option": 3,
+          "text": "かねないだろう"
+        },
+        {
+          "option": 4,
+          "text": "かねないようだ"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "切れそうにない",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜切れそうにない",
+      "target_type": "grammar",
+      "target_id": "grammar:〜切れそうにない",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「食べ切る」是吃完；「食べ切れそうにない」表示看起來無法全部吃完。"
     },
     {
       "id": "2021-12-Q42",
@@ -2839,16 +3823,40 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 42,
+      "problem_number": 7,
       "question_type": "grammar_fill",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "最近は毎月決まった金額でかけ放題の国際電話サービスがある。私が留学していたときにもそんなサービスがあったら（　）。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "どれだけよかった"
+        },
+        {
+          "option": 2,
+          "text": "どれだけよかったか"
+        },
+        {
+          "option": 3,
+          "text": "どうしてもよかった"
+        },
+        {
+          "option": 4,
+          "text": "どうしてもよかったか"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "どれだけよかったか",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "どれだけ〜か",
+      "target_type": "grammar",
+      "target_id": "grammar:どれだけ〜か",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "「どれだけ〜たか」可表示強烈感嘆：要是有的話該有多好。"
     },
     {
       "id": "2021-12-Q43",
@@ -2858,16 +3866,46 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 43,
+      "problem_number": 8,
       "question_type": "grammar_order",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "もう酒は飲まないと＿＿＿＿＿＿★＿＿＿＿＿＿絶対に守りたい。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "決めた"
+        },
+        {
+          "option": 2,
+          "text": "どんなに"
+        },
+        {
+          "option": 3,
+          "text": "以上は"
+        },
+        {
+          "option": 4,
+          "text": "誘われても"
+        }
+      ],
+      "answer_option": 3,
+      "answer": "以上は",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜た以上は／どんなに〜ても",
+      "target_type": "grammar",
+      "target_id": "grammar:〜た以上は／どんなに〜ても",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "正確語序為「もう酒は飲まないと決めた以上は、どんなに誘われても絶対に守りたい」。",
+      "order_solution": [
+        1,
+        3,
+        2,
+        4
+      ]
     },
     {
       "id": "2021-12-Q44",
@@ -2877,16 +3915,46 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 44,
+      "problem_number": 8,
       "question_type": "grammar_order",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "必要のない物でも、欲しくなると＿＿＿＿＿＿★＿＿＿＿＿＿しまう。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "買わずには"
+        },
+        {
+          "option": 2,
+          "text": "すぐ買って"
+        },
+        {
+          "option": 3,
+          "text": "いられなく"
+        },
+        {
+          "option": 4,
+          "text": "なって"
+        }
+      ],
+      "answer_option": 4,
+      "answer": "なって",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜ずにはいられない",
+      "target_type": "grammar",
+      "target_id": "grammar:〜ずにはいられない",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "正確語序為「買わずにはいられなくなって、すぐ買ってしまう」。",
+      "order_solution": [
+        1,
+        3,
+        4,
+        2
+      ]
     },
     {
       "id": "2021-12-Q45",
@@ -2896,16 +3964,46 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 45,
+      "problem_number": 8,
       "question_type": "grammar_order",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "パソコンの電源を入れたのだが、画面に「お待ちください」という＿＿＿＿＿＿★＿＿＿＿＿＿、電源を入れ直した。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "待っても"
+        },
+        {
+          "option": 2,
+          "text": "何分"
+        },
+        {
+          "option": 3,
+          "text": "メッセージが出たまま"
+        },
+        {
+          "option": 4,
+          "text": "先に進まないので"
+        }
+      ],
+      "answer_option": 1,
+      "answer": "待っても",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜ても〜ない",
+      "target_type": "grammar",
+      "target_id": "grammar:〜ても〜ない",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "正確語序為「メッセージが出たまま何分待っても先に進まないので」。",
+      "order_solution": [
+        3,
+        2,
+        1,
+        4
+      ]
     },
     {
       "id": "2021-12-Q46",
@@ -2915,16 +4013,46 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 5,
       "question_number": 46,
+      "problem_number": 8,
       "question_type": "grammar_order",
-      "page_transcript_ref": "2021-12-p5",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "（電話で）A「すみません、来週の2時からの会議ですが、その時間、別の用件が入ってしまいまして、もしそちらのご都合が＿＿＿＿＿＿★＿＿＿＿＿＿、いかがでしょうか。」B「こちらは大丈夫ですよ。」",
+      "choices": [
+        {
+          "option": 1,
+          "text": "ありがたいんですが"
+        },
+        {
+          "option": 2,
+          "text": "変更していただけると"
+        },
+        {
+          "option": 3,
+          "text": "4時以降に"
+        },
+        {
+          "option": 4,
+          "text": "よろしければ"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "変更していただけると",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "よろしければ〜変更していただけると",
+      "target_type": "grammar",
+      "target_id": "grammar:よろしければ〜変更していただけると",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "正確語序為「よろしければ4時以降に変更していただけるとありがたいんですが」。",
+      "order_solution": [
+        4,
+        3,
+        2,
+        1
+      ]
     },
     {
       "id": "2021-12-Q47",
@@ -2934,16 +4062,46 @@
       "source_pdf": "2021年12月日语N2真题试卷.pdf",
       "pdf_page": 6,
       "question_number": 47,
+      "problem_number": 8,
       "question_type": "grammar_order",
-      "page_transcript_ref": "2021-12-p6",
-      "question_text_status": "page_transcript_only",
-      "answer_option": null,
-      "answer_unknown": true,
-      "appearance_type": null,
+      "question_text_status": "visually_transcribed_from_scan",
+      "question_text": "20年前に初めてこの歌手の歌を聴いたとき、＿＿＿＿＿＿★＿＿＿＿＿＿。",
+      "choices": [
+        {
+          "option": 1,
+          "text": "と思った"
+        },
+        {
+          "option": 2,
+          "text": "よく覚えている"
+        },
+        {
+          "option": 3,
+          "text": "のを"
+        },
+        {
+          "option": 4,
+          "text": "なんて美しい声なんだろう"
+        }
+      ],
+      "answer_option": 2,
+      "answer": "よく覚えている",
+      "answer_unknown": false,
+      "answer_verification": "verified_against_answer_key_in_uploaded_pdf",
+      "focus": "〜と思ったのをよく覚えている",
+      "target_type": "grammar",
+      "target_id": "grammar:〜と思ったのをよく覚えている",
+      "source_type": "real",
+      "appearance_type": "correct_answer",
       "incomplete": false,
-      "needs_review": true,
-      "notes": "題目只有頁面級 OCR transcript，尚未逐題核對題幹、四選項及對位；預設排除正式測驗。",
-      "source_type": "real"
+      "needs_review": false,
+      "explanation_zh": "正確語序為「なんて美しい声なんだろうと思ったのをよく覚えている」。",
+      "order_solution": [
+        4,
+        1,
+        3,
+        2
+      ]
     },
     {
       "id": "2022-07-Q01",
